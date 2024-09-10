@@ -25,10 +25,19 @@ def scrape_page(url):
     target_class = "rogA2c"
     elements = soup.find_all(class_=target_class)
     
-    # Print the results
-    print("\n")
-    for element in elements:
-        print(element.text)
+    # Write results to the file `details.txt`
+    with open('details.txt', 'a') as file:
+
+        file.write(f"{url}\n")
+        
+        tc="DUwDvf lfPIob"
+        node = soup.find(class_=tc)
+        file.write(node.text + '\n')
+
+        for element in elements:
+            text = element.text  
+            file.write(text + '\n')  # Append text to the file
+        file.write('\n')  # Add a newline after each URL's results
     
     driver.quit()
 
