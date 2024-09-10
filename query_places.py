@@ -42,7 +42,7 @@ def main():
     if "https://www.google.com/maps/place" in query:
         print("coming soon")
     else:
-        search_url = "https://www.google.com/maps/search/" + query
+        search_url = "https://www.google.com/maps/search/" + query + "+near+me"
         urls = scrape_page(search_url)
     
     # Write URLs to places.txt

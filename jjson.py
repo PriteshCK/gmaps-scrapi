@@ -26,9 +26,12 @@ def extract_info(text):
             if '.com' in line:
                 site_match = re.search(r'\b\w+\.com\b', line)
                 site = site_match.group(0) if site_match else None
-            if re.search(r'\b0\d+', line):
-                contact_match = re.search(r'\b0\d+', line)
-                contact_number = contact_match.group(0) + line[contact_match.end():].strip() if contact_match else None
+
+            if re.match(r'\b0\d+\b', line):
+                contact_number = line.strip()
+            #if re.search(r'\b0\d+', line):
+            #    contact_match = re.search(r'\b0\d+', line)
+            #    contact_number = contact_match.group(0) + line[contact_match.end():].strip() if contact_match else None
         
         data.append({
             'url': url,
