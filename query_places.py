@@ -37,6 +37,7 @@ def scrape_page(url):
     return urls
 
 def main():
+    open('details.txt', 'w').close()  # This clears the file
     query = input("url/query: ")
     if "https://www.google.com/maps/place" in query:
         print("coming soon")
@@ -51,4 +52,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

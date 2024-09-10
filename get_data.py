@@ -42,7 +42,7 @@ def scrape_page(url):
     driver.quit()
 
 def main():
-    # Read URLs from places.txt
+    open('details.txt', 'w').close()  # This clears the file
     with open('places.txt', 'r') as file:
         urls = file.readlines()
     
