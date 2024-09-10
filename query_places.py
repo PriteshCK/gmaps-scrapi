@@ -37,14 +37,17 @@ def scrape_page(url):
     return urls
 
 def main():
-    query = input("Search: ")
-    search_url = "https://www.google.com/maps/search/" + query
-    urls = scrape_page(search_url)
+    query = input("url/query: ")
+    if "https://www.google.com/maps/place" in query:
+        print("coming soon")
+    else:
+        search_url = "https://www.google.com/maps/search/" + query
+        urls = scrape_page(search_url)
     
     # Write URLs to places.txt
-    with open('places.txt', 'a') as file:
-        for url in urls:
-            file.write(url + '\n')
+        with open('places.txt', 'a') as file:
+            for url in urls:
+                file.write(url + '\n')
 
 if __name__ == "__main__":
     main()
