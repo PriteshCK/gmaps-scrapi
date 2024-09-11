@@ -1,11 +1,10 @@
+from flask import Flask, request, jsonify
 import re
 import json
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-
-# Set Chrome options
-chrome_options = Options()
+import os
 
 # Set Chrome options
 chrome_options = Options()
@@ -14,25 +13,18 @@ chrome_options.add_argument("--disable-gpu")
 chrome_options.add_argument("--disable-dev-shm-usage")
 chrome_options.add_argument("--window-size=1920,1080")
 chrome_options.add_argument("--force-device-scale-factor=0.1")
- 
 
- # query_places.py functionality
+# Initialize Flask app
+app = Flask(__name__)
+
+# query_places.py functionality
 def scrape_places(query):
-   
-    # Initialize WebDriver with options
     driver = webdriver.Chrome(options=chrome_options)
-    
-    # Determine the search URL
-    if "https://www.google.com/maps/place" in query:
-        print("coming soon")
-        return []
-    else:
-        search_url = "https://www.google.com/maps/search/" + query + "+near+me"
+    search_url = "https://www.google.com/maps/search/" + query + "+near+me"
     
     driver.get(search_url)
     driver.implicitly_wait(10)  # Wait for the page to load
     
-    # Parse page source
     soup = BeautifulSoup(driver.page_source, 'html.parser')
     target_class = "Nv2PK THOPZb CpccDe"
     elements = soup.find_all(class_=target_class)
@@ -44,7 +36,6 @@ def scrape_places(query):
             href = a_tag['href']
             if "https://www.google.com/maps/place" in href:
                 urls.append(href)
-                print(href)
     
     driver.quit()
     return urls
@@ -56,8 +47,6 @@ def save_places_to_file(urls):
 
 # get_data.py functionality
 def scrape_data_from_url(url):
-   
-    # Initialize WebDriver
     driver = webdriver.Chrome(options=chrome_options)
     driver.get(url)
     driver.implicitly_wait(10)  # Wait for the page to load
@@ -124,26 +113,30 @@ def extract_info_from_file():
             'contact_number': contact_number
         })
     
-    # Write extracted data to JSON file
-    with open('data.json', 'w') as json_file:
-        json.dump(data, json_file, indent=4)
-    
-    print("Data has been written to data.json.")
+    return data
 
-# Main program to orchestrate all the steps
-def main():
-    # Step 1: Query places
-    query = input("url/query: ")
+@app.route('/scrape', methods=['POST'])
+def scrape_api():
+    query = request.json.get('query')
+    if not query:
+        return jsonify({"error": "Query is required"}), 400
+
+    # Step 1: Scrape places and save to places.txt
     urls = scrape_places(query)
     save_places_to_file(urls)
     
-    # Step 2: Scrape data from places
-    open('details.txt', 'w').close()  # Clear the file
-    scrape_all_places()
-    
-    # Step 3: Extract information and save to JSON
-    extract_info_from_file()
+    if not urls:
+        return jsonify({"message": "No URLs found"}), 404
 
-if __name__ == "__main__":
-    main()
+    # Step 2: Scrape data from the URLs and save to details.txt
+    open('details.txt', 'w').close()  # Clear the file before adding new content
+    scrape_all_places()
+
+    # Step 3: Extract the information and return as JSON
+    extracted_data = extract_info_from_file()
+    
+    return jsonify({"data": extracted_data})
+
+if __name__ == '__main__':
+    app.run(debug=True)
 
