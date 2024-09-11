@@ -29,9 +29,6 @@ def extract_info(text):
 
             if re.match(r'\b0\d+\b', line):
                 contact_number = line.strip()
-            #if re.search(r'\b0\d+', line):
-            #    contact_match = re.search(r'\b0\d+', line)
-            #    contact_number = contact_match.group(0) + line[contact_match.end():].strip() if contact_match else None
         
         data.append({
             'url': url,
@@ -50,9 +47,9 @@ with open('details.txt', 'r') as file:
 # Extract information
 info = extract_info(content)
 
-# Convert the extracted information to JSON
-json_output = json.dumps(info, indent=4)
+# Convert the extracted information to JSON and write to data.json
+with open('data.json', 'w') as json_file:
+    json.dump(info, json_file, indent=4)
 
-# Print the JSON output
-print(json_output)
+print("Data has been written to data.json.")
 
