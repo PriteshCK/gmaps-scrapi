@@ -4,14 +4,19 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
+
+# Set Chrome options
+chrome_options = Options()
+chrome_options.add_argument("--disable-gpu")
+chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument("--disable-dev-shm-usage")
+chrome_options.add_argument("--window-size=1920,1080")
+chrome_options.add_argument("--force-device-scale-factor=0.1")
+ 
+
 # query_places.py functionality
 def scrape_places(query):
-    # Set Chrome options
-    chrome_options = Options()
-    chrome_options.add_argument("--disable-gpu")
-    chrome_options.add_argument("--no-sandbox")
-    chrome_options.add_argument("--force-device-scale-factor=0.1")
-    
+   
     # Initialize WebDriver with options
     driver = webdriver.Chrome(options=chrome_options)
     
@@ -49,14 +54,7 @@ def save_places_to_file(urls):
 
 # get_data.py functionality
 def scrape_data_from_url(url):
-    # Set Chrome options
-    chrome_options = Options()
-    chrome_options.add_argument("--no-sandbox")
-    chrome_options.add_argument("--disable-gpu")
-    chrome_options.add_argument("--disable-dev-shm-usage")
-    chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_argument("--force-device-scale-factor=0.1")
-    
+   
     # Initialize WebDriver
     driver = webdriver.Chrome(options=chrome_options)
     driver.get(url)
