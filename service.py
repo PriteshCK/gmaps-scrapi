@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, Response
 import re
 import json
 from bs4 import BeautifulSoup
@@ -113,6 +113,11 @@ def extract_info_from_file():
             'contact_number': contact_number
         })
     
+    # Clear and write the extracted data to data.json
+    open('data.json', 'w').close()  # Clear the file before writing
+    with open('data.json', 'w') as json_file:
+        json.dump(data, json_file, indent=4)
+    
     return data
 
 @app.route('/scrape', methods=['POST'])
@@ -132,10 +137,15 @@ def scrape_api():
     open('details.txt', 'w').close()  # Clear the file before adding new content
     scrape_all_places()
 
-    # Step 3: Extract the information and return as JSON
+    # Step 3: Extract the information, save to data.json, and return the content
     extracted_data = extract_info_from_file()
     
-    return jsonify({"data": extracted_data})
+    # Read the contents of data.json
+    with open('data.json', 'r') as json_file:
+        json_output = json.load(json_file)
+
+    # Return the JSON without sorting keys
+    return Response(json.dumps(json_output, indent=4, sort_keys=False), mimetype='application/json')
 
 if __name__ == '__main__':
     app.run(debug=True)
