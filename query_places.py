@@ -1,4 +1,3 @@
-from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
@@ -7,10 +6,12 @@ def scrape_page(url):
     chrome_options = Options()
     chrome_options.add_argument("--disable-gpu")  # Disable GPU acceleration
     chrome_options.add_argument("--no-sandbox")  # Required for running as root
-    chrome_options.add_argument("--force-device-scale-factor=0.1")  # Set zoom to 50%
+    chrome_options.add_argument("--force-device-scale-factor=0.1")  # Set zoom to 50
+
 
     # Initialize WebDriver with options
     driver = webdriver.Chrome(options=chrome_options)
+    driver.maximize_window()
     driver.get(url)
 
     # Wait for the page to load fully
