@@ -41,7 +41,7 @@ def scrape_places(query):
     return urls
 
 def save_places_to_file(urls):
-    with open('places.txt', 'w') as file:
+    with open('places.txt', 'w', encoding='utf-8') as file:
         for url in urls:
             file.write(url + '\n')
 
@@ -55,7 +55,7 @@ def scrape_data_from_url(url):
     target_class = "rogA2c"
     elements = soup.find_all(class_=target_class)
     
-    with open('details.txt', 'a') as file:
+    with open('details.txt', 'a', encoding='utf-8') as file:
         file.write(f"{url}\n")
         
         tc = "DUwDvf lfPIob"
@@ -72,7 +72,7 @@ def scrape_data_from_url(url):
     driver.quit()
 
 def scrape_all_places():
-    with open('places.txt', 'r') as file:
+    with open('places.txt', 'r', encoding='utf-8') as file:
         urls = [url.strip() for url in file.readlines()]
     
     for url in urls:
@@ -80,7 +80,7 @@ def scrape_all_places():
 
 # jjson.py functionality
 def extract_info_from_file():
-    with open('details.txt', 'r') as file:
+    with open('details.txt', 'r', encoding='utf-8') as file:
         content = file.read()
     
     sections = [section.strip() for section in content.strip().split('\n\n')]
@@ -114,9 +114,8 @@ def extract_info_from_file():
         })
     
     # Clear and write the extracted data to data.json
-    open('data.json', 'w').close()  # Clear the file before writing
-    with open('data.json', 'w') as json_file:
-        json.dump(data, json_file, indent=4)
+    with open('data.json', 'w', encoding='utf-8') as json_file:
+        json.dump(data, json_file, indent=4, ensure_ascii=False)
     
     return data
 
@@ -137,19 +136,20 @@ def scrape_api():
         return jsonify({"message": "No URLs found"}), 404
 
     # Step 2: Scrape data from the URLs and save to details.txt
-    open('details.txt', 'w').close()  # Clear the file before adding new content
+    open('details.txt', 'w', encoding='utf-8').close()  # Clear the file before adding new content
     scrape_all_places()
 
     # Step 3: Extract the information, save to data.json, and return the content
     extracted_data = extract_info_from_file()
     
     # Read the contents of data.json
-    with open('data.json', 'r') as json_file:
+    with open('data.json', 'r', encoding='utf-8') as json_file:
         json_output = json.load(json_file)
 
     # Return the JSON without sorting keys
-    return Response(json.dumps(json_output, indent=4, sort_keys=False), mimetype='application/json')
+    return Response(json.dumps(json_output, indent=4, sort_keys=False, ensure_ascii=False), mimetype='application/json')
 
 if __name__ == '__main__':
     #app.run(debug=True, host='192.168.0.106', port=5000)
     app.run(debug=True, host='0.0.0.0', port=5000)
+
