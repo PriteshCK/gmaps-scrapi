@@ -20,7 +20,7 @@ app = Flask(__name__)
 # query_places.py functionality
 def scrape_places(query):
     driver = webdriver.Chrome(options=chrome_options)
-    search_url = "https://www.google.com/maps/search/" + query + "+near+me"
+    search_url = "https://www.google.com/maps/search/" + query
     
     driver.get(search_url)
     driver.implicitly_wait(10)  # Wait for the page to load
@@ -120,9 +120,12 @@ def extract_info_from_file():
     
     return data
 
-@app.route('/scrape', methods=['POST'])
+@app.route('/scrape', methods=['POST', 'GET'])
 def scrape_api():
-    query = request.json.get('query')
+    if request.method == 'POST':
+        query = request.json.get('query')
+    else:
+        query = request.args.get('query')
     if not query:
         return jsonify({"error": "Query is required"}), 400
 
@@ -148,5 +151,5 @@ def scrape_api():
     return Response(json.dumps(json_output, indent=4, sort_keys=False), mimetype='application/json')
 
 if __name__ == '__main__':
-    app.run(debug=True)
-
+    #app.run(debug=True, host='192.168.0.106', port=5000)
+    app.run(debug=True, host='0.0.0.0', port=5000)
