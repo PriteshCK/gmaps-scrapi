@@ -8,10 +8,11 @@ import os
 
 # Set Chrome options
 chrome_options = Options()
+chrome_options.add_argument("--headless")
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-gpu")
 chrome_options.add_argument("--disable-dev-shm-usage")
-chrome_options.add_argument("--window-size=1920,1080")
+#chrome_options.add_argument("--window-size=3840,2160")
 chrome_options.add_argument("--force-device-scale-factor=0.1")
 
 # Initialize Flask app
@@ -20,6 +21,7 @@ app = Flask(__name__)
 # query_places.py functionality
 def scrape_places(query):
     driver = webdriver.Chrome(options=chrome_options)
+    driver.execute_script("document.body.style.zoom='10%'")
     search_url = "https://www.google.com/maps/search/" + query
     
     driver.get(search_url)

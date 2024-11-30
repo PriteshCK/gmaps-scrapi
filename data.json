@@ -1,107 +1,58 @@
 [
     {
-        "url": "https://www.google.com/maps/place/THE+SENATE+HOTEL/data=!4m10!3m9!1s0x3b080d5ae9bebf8b:0x4065054cb6027fe2!5m2!4m1!1i2!8m2!3d9.9863204!4d76.2811337!16s%2Fg%2F1td168dp!19sChIJi7--6VoNCDsR4n8CtkwFZUA?authuser=0&hl=en&rclk=1",
-        "place_name": "THE SENATE HOTEL",
-        "address": "Providence Rd, Kacheripady, Ernakulam, Kerala 682018",
+        "url": "https://www.google.com/maps/place/Shantai+Hotel/data=!4m10!3m9!1s0x3bc2c068230116d1:0x8a71943f7d23e1df!5m2!4m1!1i2!8m2!3d18.5195905!4d73.871083!16s%2Fg%2F1pp2vdd0v!19sChIJ0RYBI2jAwjsR3-EjfT-UcYo?authuser=0&hl=en&rclk=1",
+        "place_name": "Shantai Hotel",
+        "address": "Off Moledina Road, Camp, 10/3, Rasta Peth, Pune, Maharashtra 411011",
+        "site": "shantaihotel.com",
+        "contact_number": "020 4141 5151"
+    },
+    {
+        "url": "https://www.google.com/maps/place/St+Laurn+Hotel/data=!4m10!3m9!1s0x3bc2c0fc2b2b56db:0x76b21edc396aa13!5m2!4m1!1i2!8m2!3d18.538576!4d73.8859192!16s%2Fg%2F11bylbnmx7!19sChIJ21YrK_zAwjsRE6qWw-0hawc?authuser=0&hl=en&rclk=1",
+        "place_name": "St Laurn Hotel",
+        "address": "15/A, Koregaon Rd, Koregaon Park, Pune, Maharashtra 411001",
         "site": null,
-        "contact_number": "089216 96499"
+        "contact_number": "020 4000 8000"
     },
     {
-        "url": "https://www.google.com/maps/place/The+Wyte+Fort/data=!4m10!3m9!1s0x3b08731d965ad3b5:0xd5975c39d397688a!5m2!4m1!1i2!8m2!3d9.9457689!4d76.3184327!16s%2Fg%2F1w0hz14n!19sChIJtdNalh1zCDsRimiX0zlcl9U?authuser=0&hl=en&rclk=1",
-        "place_name": "The Wyte Fort",
-        "address": "66, National Highway, Vijaya Nagar, Jaya Nagar, Maradu, Kochi, Ernakulam, Kerala 680304",
+        "url": "https://www.google.com/maps/place/The+Central+Park+Hotel,+Pune/data=!4m10!3m9!1s0x3bc2c057697c2577:0xd161f69b35d670bd!5m2!4m1!1i2!8m2!3d18.5271764!4d73.8785874!16s%2Fg%2F11bbrgs8wc!19sChIJdyV8aVfAwjsRvXDWNZv2YdE?authuser=0&hl=en&rclk=1",
+        "place_name": "The Central Park Hotel, Pune",
+        "address": "बंड गार्डन मार्ग, near Inox multiplex, Agarkar Nagar, Pune, Maharashtra 411001",
+        "site": "thecentralparkhotel.com",
+        "contact_number": "020 4010 4000"
+    },
+    {
+        "url": "https://www.google.com/maps/place/The+Pride+Hotel+Pune/data=!4m10!3m9!1s0x3bc2c085264f9eb5:0x8c2d2842d79a25a0!5m2!4m1!1i2!8m2!3d18.531138!4d73.8472873!16s%2Fg%2F1td0wy2y!19sChIJtZ5PJoXAwjsRoCWa10IoLYw?authuser=0&hl=en&rclk=1",
+        "place_name": "The Pride Hotel Pune",
+        "address": "5, University Rd, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005",
+        "site": "pridehotel.com",
+        "contact_number": "020 6647 1471"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Smart+Inn+-+A+Budget+Hotel/data=!4m10!3m9!1s0x3bc2c0787905877d:0x5ef273231b26cfce!5m2!4m1!1i2!8m2!3d18.5193787!4d73.8422633!16s%2Fg%2F1wj_4h3n!19sChIJfYcFeXjAwjsRzs8mGyNz8l4?authuser=0&hl=en&rclk=1",
+        "place_name": "Smart Inn - A Budget Hotel",
+        "address": "1226/2 Shivaji Nagar, Off Fergusson College and, Apte Rd, next to Venus Traders, Deccan Gymkhana, Gymkhaha, Maharashtra 411004",
         "site": null,
-        "contact_number": "0484 270 6952"
+        "contact_number": "095958 08811"
     },
     {
-        "url": "https://www.google.com/maps/place/Le+Maritime+Kochi/data=!4m10!3m9!1s0x3b0812c5ffae6d43:0xf680ccd7e7241ed0!5m2!4m1!1i2!8m2!3d9.9827595!4d76.2416229!16s%2Fg%2F11g6bjb2qg!19sChIJQ22u_8USCDsR0B4k59fMgPY?authuser=0&hl=en&rclk=1",
-        "place_name": "Le Maritime Kochi",
-        "address": "XIV/144 A - 144 J, LE MARITIME KOCHI, GOSREE JUNCTION, PUTHUVYPE, Vypin, Kochi, Kerala 682508",
-        "site": "lemaritimekochi.com",
-        "contact_number": "0484 286 7777"
-    },
-    {
-        "url": "https://www.google.com/maps/place/Ginger+Kochi,+Kalamassery/data=!4m10!3m9!1s0x3b080d325ba5fe41:0x110f2832c561c95e!5m2!4m1!1i2!8m2!3d10.0458956!4d76.3177544!16s%2Fg%2F11qg964qf_!19sChIJQf6lWzINCDsRXslhxTIoDxE?authuser=0&hl=en&rclk=1",
-        "place_name": "Ginger Kochi, Kalamassery",
-        "address": "Metro Station, Police station, NH544, near University Road, opposite Kalamassery, Changampuzha Nagar, P O, South Kalamassery, Edappally, Kochi, Kerala 682033",
-        "site": "gingerhotels.com",
-        "contact_number": "0484 663 3600"
-    },
-    {
-        "url": "https://www.google.com/maps/place/Coral+Reef+Hotel/data=!4m10!3m9!1s0x3b080d43a7f8ad81:0x6f8892efb00526f6!5m2!4m1!1i2!8m2!3d9.9919763!4d76.2857144!16s%2Fg%2F11f66tb4hy!19sChIJga34p0MNCDsR9iYFsO-SiG8?authuser=0&hl=en&rclk=1",
-        "place_name": "Coral Reef Hotel",
-        "address": "St Benedict Rd, opposite north railway station, Kacheripady, Kochi, Ernakulam, Kerala 682018",
+        "url": "https://www.google.com/maps/place/Hotel+Phoenix/data=!4m10!3m9!1s0x3bc2c10b18678489:0x6d6c7222419e520e!5m2!4m1!1i2!8m2!3d18.5379141!4d73.9109222!16s%2Fg%2F1th55fnb!19sChIJiYRnGAvBwjsRDlKeQSJybG0?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Phoenix",
+        "address": "near Army Sports Institute, Koregaon Park Annexe, Koregaon Park, Pune, Maharashtra 411001",
         "site": null,
-        "contact_number": "0484 292 2300"
+        "contact_number": "020 4105 4105"
     },
     {
-        "url": "https://www.google.com/maps/place/Radisson+Blu+Hotel,+Kochi/data=!4m10!3m9!1s0x3b0872d1c088f139:0x54974bd38aab09b8!5m2!4m1!1i2!8m2!3d9.9673121!4d76.3072573!16s%2Fg%2F1tfm9n88!19sChIJOfGIwNFyCDsRuAmritNLl1Q?authuser=0&hl=en&rclk=1",
-        "place_name": "Radisson Blu Hotel, Kochi",
-        "address": "Sahodaran Ayyappan Rd, near Elamkulam Metro Station, Elamkulam, Kochi, Ernakulam, Kerala 682020",
-        "site": "radissonhotels.com",
-        "contact_number": "0484 412 9999"
+        "url": "https://www.google.com/maps/place/The+Grand+Tulip/data=!4m10!3m9!1s0x3bc2c1b12d8f493f:0xe76153432d8f32ab!5m2!4m1!1i2!8m2!3d18.5010977!4d73.8578497!16s%2Fg%2F11sj5d05k5!19sChIJP0mPLbHBwjsRqzKPLUNTYec?authuser=0&hl=en&rclk=1",
+        "place_name": "The Grand Tulip",
+        "address": "Swargate square, 1010, beside Natraj Hotel, Dadawadi, Shukrawar Peth, Pune, Maharashtra 411042",
+        "site": "thegrandtulip.com",
+        "contact_number": "093708 98800"
     },
     {
-        "url": "https://www.google.com/maps/place/Vivanta+Ernakulam,+Marine+Drive/data=!4m10!3m9!1s0x3b080d5383edce73:0xe6f2b06867d118ec!5m2!4m1!1i2!8m2!3d9.9764692!4d76.277019!16s%2Fg%2F1thlxwhc!19sChIJc87tg1MNCDsR7BjRZ2iw8uY?authuser=0&hl=en&rclk=1",
-        "place_name": "Vivanta Ernakulam, Marine Drive",
-        "address": "Shanmugham Rd, Marine Drive, Kochi, Ernakulam, Kerala 682011",
-        "site": "vivantahotels.com",
-        "contact_number": "0484 667 3300"
-    },
-    {
-        "url": "https://www.google.com/maps/place/Luciya/data=!4m10!3m9!1s0x3b080d4c0c2abc09:0x680457db0f6e1d34!5m2!4m1!1i2!8m2!3d9.9779793!4d76.2879205!16s%2Fg%2F11c143mlzb!19sChIJCbwqDEwNCDsRNB1uD9tXBGg?authuser=0&hl=en&rclk=1",
-        "place_name": "Luciya",
-        "address": "X7HQ+55V, Shenoys, Ernakulam, Kerala 682035",
-        "site": "hotelluciya.com",
-        "contact_number": "0484 238 1177"
-    },
-    {
-        "url": "https://www.google.com/maps/place/Holiday+Inn+Cochin,+an+IHG+Hotel/data=!4m10!3m9!1s0x3b080d21acb3edbb:0xb279fc9797cc341e!5m2!4m1!1i2!8m2!3d9.9901715!4d76.3157927!16s%2Fg%2F1vhq23_n!19sChIJu-2zrCENCDsRHjTMl5f8ebI?authuser=0&hl=en&rclk=1",
-        "place_name": "Holiday Inn Cochin, an IHG Hotel",
-        "address": "A Junction, 33/1739, National Highway Bypass, Chakkaraparambu, Vennala, Kochi, Ernakulam, Kerala 682028",
-        "site": "ihg.com",
-        "contact_number": "0484 664 9000"
-    },
-    {
-        "url": "https://www.google.com/maps/place/Cochin+Seaport+Hotel/data=!4m10!3m9!1s0x3b0812e86fac54a5:0x9109f52761b08a4a!5m2!4m1!1i2!8m2!3d9.9953706!4d76.2371363!16s%2Fg%2F11bccmv2q4!19sChIJpVSsb-gSCDsRSoqwYSf1CZE?authuser=0&hl=en&rclk=1",
-        "place_name": "Cochin Seaport Hotel",
-        "address": "Thekkanmalippuram, Off Marine Drive ,, On the way to Cherai ,, Kochi, Kerala 682508",
-        "site": null,
-        "contact_number": "0484 250 3455"
-    },
-    {
-        "url": "https://www.google.com/maps/place/Napier+Heritage+Fort+Kochi/data=!4m10!3m9!1s0x3b086dee21c71623:0x449fa548de1273cb!5m2!4m1!1i2!8m2!3d9.9636837!4d76.2397062!16s%2Fg%2F11rcs3bfdt!19sChIJIxbHIe5tCDsRy3MS3kiln0Q?authuser=0&hl=en&rclk=1",
-        "place_name": "Napier Heritage Fort Kochi",
-        "address": "X67Q+FWM, 1/784, Lilly Street, Fort Kochi, Kochi, Kerala 682001",
-        "site": "napierheritage.com",
-        "contact_number": "088913 33500"
-    },
-    {
-        "url": "https://www.google.com/maps/place/ibis+Kochi+City+Centre/data=!4m10!3m9!1s0x3b080d4e1937ea55:0x69ec12f91b48b67e!5m2!4m1!1i2!8m2!3d9.9812118!4d76.2827025!16s%2Fg%2F11c1wtljp_!19sChIJVeo3GU4NCDsRfrZIG_kS7Gk?authuser=0&hl=en&rclk=1",
-        "place_name": "ibis Kochi City Centre",
-        "address": "Mahatma Gandhi Rd, Padma Junction, Shenoys, Kochi, Ernakulam, Kerala 682035",
-        "site": "accor.com",
-        "contact_number": "0484 713 7137"
-    },
-    {
-        "url": "https://www.google.com/maps/place/Millennium+Continental+%7C+Hotels+in+Kochi/data=!4m10!3m9!1s0x3b080d5280315add:0xd21068eb99a65631!5m2!4m1!1i2!8m2!3d9.9757784!4d76.2825947!16s%2Fg%2F1hhk72b0m!19sChIJ3VoxgFINCDsRMVammetoENI?authuser=0&hl=en&rclk=1",
-        "place_name": "Millennium Continental | Hotels in Kochi",
-        "address": "Narakathara Road, Mahatma Gandhi Rd, opp. Shenoys Theatre, Kochi, Kerala 682035",
-        "site": null,
-        "contact_number": "081297 92266"
-    },
-    {
-        "url": "https://www.google.com/maps/place/The+Trios+Hotel+Kochi/data=!4m10!3m9!1s0x3b080d655a742abb:0xf52546c2ac2b413d!5m2!4m1!1i2!8m2!3d9.9762183!4d76.2830237!16s%2Fg%2F11n_y5clfw!19sChIJuyp0WmUNCDsRPUErrMJGJfU?authuser=0&hl=en&rclk=1",
-        "place_name": "The Trios Hotel Kochi",
-        "address": "metro pillar 685, oppo Shenoys theater, Narakathara Rd, Kerala 682011",
-        "site": "thetrioshotel.com",
-        "contact_number": "088753 97397"
-    },
-    {
-        "url": "https://www.google.com/maps/place/Laimar+Hotels/data=!4m10!3m9!1s0x3b080daf16eab4ab:0x8881662300da7149!5m2!4m1!1i2!8m2!3d10.02636!4d76.3093574!16s%2Fg%2F11ffw96tx7!19sChIJq7TqFq8NCDsRSXHaACNmgYg?authuser=0&hl=en&rclk=1",
-        "place_name": "Laimar Hotels",
-        "address": "kuriekal arcade, NH544, opposite Lulu Mall Walkway, Edappally, Kochi, Ernakulam, Kerala 682024",
-        "site": "laimarhotels.com",
-        "contact_number": "095442 03301"
+        "url": "https://www.google.com/maps/place/Hotel+Kapil+Residency+Pune+Budget+hotel+near+Pune+Railway+station/data=!4m10!3m9!1s0x3bc2c05df16a5515:0x2a6b0abf570b040c!5m2!4m1!1i2!8m2!3d18.5239543!4d73.8660639!16s%2Fg%2F11bxj8z0mj!19sChIJFVVq8V3AwjsRDAQLV78Kayo?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Kapil Residency Pune Budget hotel near Pune Railway station",
+        "address": "near Sinchan Bhavan, New Mangalwar Peth, Mangalwar Peth, Kasba Peth, Pune, Maharashtra 411011",
+        "site": "hotelkapilresidencypune.com",
+        "contact_number": "080 4804 0554"
     }
 ]
