@@ -33,17 +33,17 @@ def scrape_places(query):
 
 
     # scroll sidebar
-    scrollable_div = driver.find_element(By.CSS_SELECTOR, "div[role='feed']")
-    last_height = driver.execute_script("return arguments[0].scrollHeight", scrollable_div)
-    
-    while True:
-        driver.execute_script("arguments[0].scrollTop = arguments[0].scrollHeight", scrollable_div)
-        time.sleep(5)
-        
-        new_height = driver.execute_script("return arguments[0].scrollHeight", scrollable_div)
-        if new_height == last_height:
-            break
-        last_height = new_height
+#    scrollable_div = driver.find_element(By.CSS_SELECTOR, "div[role='feed']")
+#    last_height = driver.execute_script("return arguments[0].scrollHeight", scrollable_div)
+#    
+#    while True:
+#        driver.execute_script("arguments[0].scrollTop = arguments[0].scrollHeight", scrollable_div)
+#        time.sleep(5)
+#        
+#        new_height = driver.execute_script("return arguments[0].scrollHeight", scrollable_div)
+#        if new_height == last_height:
+#            break
+#        last_height = new_height
 
 
     soup = BeautifulSoup(driver.page_source, 'html.parser')
