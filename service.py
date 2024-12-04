@@ -4,29 +4,48 @@ import json
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.action_chains import ActionChains
+import time
 import os
 
-# Set Chrome options
+# Chrome options
 chrome_options = Options()
-chrome_options.add_argument("--headless")
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-gpu")
 chrome_options.add_argument("--disable-dev-shm-usage")
-#chrome_options.add_argument("--window-size=3840,2160")
 chrome_options.add_argument("--force-device-scale-factor=0.1")
 
-# Initialize Flask app
+
+chrome_options.add_argument("--headless")
+chrome_options.add_argument("--window-size=3840,2160")
+
+# initialize Flask app
 app = Flask(__name__)
 
 # query_places.py functionality
 def scrape_places(query):
     driver = webdriver.Chrome(options=chrome_options)
-    driver.execute_script("document.body.style.zoom='10%'")
     search_url = "https://www.google.com/maps/search/" + query
     
     driver.get(search_url)
     driver.implicitly_wait(10)  # Wait for the page to load
+
+
+    # scroll sidebar
+    scrollable_div = driver.find_element(By.CSS_SELECTOR, "div[role='feed']")
+    last_height = driver.execute_script("return arguments[0].scrollHeight", scrollable_div)
     
+    while True:
+        driver.execute_script("arguments[0].scrollTop = arguments[0].scrollHeight", scrollable_div)
+        time.sleep(5)
+        
+        new_height = driver.execute_script("return arguments[0].scrollHeight", scrollable_div)
+        if new_height == last_height:
+            break
+        last_height = new_height
+
+
     soup = BeautifulSoup(driver.page_source, 'html.parser')
     target_class = "Nv2PK THOPZb CpccDe"
     elements = soup.find_all(class_=target_class)
@@ -39,6 +58,7 @@ def scrape_places(query):
             if "https://www.google.com/maps/place" in href:
                 urls.append(href)
     
+    print(len(urls))
     driver.quit()
     return urls
 
@@ -49,9 +69,10 @@ def save_places_to_file(urls):
 
 # get_data.py functionality
 def scrape_data_from_url(url):
+    print(url)
     driver = webdriver.Chrome(options=chrome_options)
     driver.get(url)
-    driver.implicitly_wait(10)  # Wait for the page to load
+    driver.implicitly_wait(10)
     
     soup = BeautifulSoup(driver.page_source, 'html.parser')
     target_class = "rogA2c"
@@ -115,7 +136,7 @@ def extract_info_from_file():
             'contact_number': contact_number
         })
     
-    # Clear and write the extracted data to data.json
+    # clear,write extracted data to data.json
     with open('data.json', 'w', encoding='utf-8') as json_file:
         json.dump(data, json_file, indent=4, ensure_ascii=False)
     
@@ -130,28 +151,27 @@ def scrape_api():
     if not query:
         return jsonify({"error": "Query is required"}), 400
 
-    # Step 1: Scrape places and save to places.txt
+    # scrape places, save to places.txt
     urls = scrape_places(query)
     save_places_to_file(urls)
     
     if not urls:
         return jsonify({"message": "No URLs found"}), 404
 
-    # Step 2: Scrape data from the URLs and save to details.txt
+    # scrape data from the URLs and save to details.txt
     open('details.txt', 'w', encoding='utf-8').close()  # Clear the file before adding new content
     scrape_all_places()
 
-    # Step 3: Extract the information, save to data.json, and return the content
+    # extract info, save to data.json, and return content
     extracted_data = extract_info_from_file()
     
-    # Read the contents of data.json
+    # Read contents of data.json
     with open('data.json', 'r', encoding='utf-8') as json_file:
         json_output = json.load(json_file)
 
-    # Return the JSON without sorting keys
+    # Return JSON without sorting
     return Response(json.dumps(json_output, indent=4, sort_keys=False, ensure_ascii=False), mimetype='application/json')
 
 if __name__ == '__main__':
     #app.run(debug=True, host='192.168.0.106', port=5000)
     app.run(debug=True, host='0.0.0.0', port=5000)
-

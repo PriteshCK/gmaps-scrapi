@@ -4,28 +4,21 @@
         "place_name": "Shantai Hotel",
         "address": "Off Moledina Road, Camp, 10/3, Rasta Peth, Pune, Maharashtra 411011",
         "site": "shantaihotel.com",
-        "contact_number": "020 4141 5151"
+        "contact_number": null
     },
     {
-        "url": "https://www.google.com/maps/place/St+Laurn+Hotel/data=!4m10!3m9!1s0x3bc2c0fc2b2b56db:0x76b21edc396aa13!5m2!4m1!1i2!8m2!3d18.538576!4d73.8859192!16s%2Fg%2F11bylbnmx7!19sChIJ21YrK_zAwjsRE6qWw-0hawc?authuser=0&hl=en&rclk=1",
-        "place_name": "St Laurn Hotel",
-        "address": "15/A, Koregaon Rd, Koregaon Park, Pune, Maharashtra 411001",
+        "url": "https://www.google.com/maps/place/COLIWO+UN+-+Viman+nagar+%28Colive+and+Cowork%29/data=!4m10!3m9!1s0x3bc2c164a548b8b5:0x2e0fad5b6cafd5cf!5m2!4m1!1i2!8m2!3d18.5621259!4d73.9289962!16s%2Fg%2F11jb0cy7g6!19sChIJtbhIpWTBwjsRz9WvbFutDy4?authuser=0&hl=en&rclk=1",
+        "place_name": "COLIWO UN - Viman nagar (Colive and Cowork)",
+        "address": "Lane No. 4, Sai Nagari, Mathura Nagar, Wadgaon Sheri, Pune, Maharashtra 411014",
         "site": null,
-        "contact_number": "020 4000 8000"
+        "contact_number": "089561 04466"
     },
     {
-        "url": "https://www.google.com/maps/place/The+Central+Park+Hotel,+Pune/data=!4m10!3m9!1s0x3bc2c057697c2577:0xd161f69b35d670bd!5m2!4m1!1i2!8m2!3d18.5271764!4d73.8785874!16s%2Fg%2F11bbrgs8wc!19sChIJdyV8aVfAwjsRvXDWNZv2YdE?authuser=0&hl=en&rclk=1",
-        "place_name": "The Central Park Hotel, Pune",
-        "address": "बंड गार्डन मार्ग, near Inox multiplex, Agarkar Nagar, Pune, Maharashtra 411001",
-        "site": "thecentralparkhotel.com",
-        "contact_number": "020 4010 4000"
-    },
-    {
-        "url": "https://www.google.com/maps/place/The+Pride+Hotel+Pune/data=!4m10!3m9!1s0x3bc2c085264f9eb5:0x8c2d2842d79a25a0!5m2!4m1!1i2!8m2!3d18.531138!4d73.8472873!16s%2Fg%2F1td0wy2y!19sChIJtZ5PJoXAwjsRoCWa10IoLYw?authuser=0&hl=en&rclk=1",
-        "place_name": "The Pride Hotel Pune",
-        "address": "5, University Rd, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005",
-        "site": "pridehotel.com",
-        "contact_number": "020 6647 1471"
+        "url": "https://www.google.com/maps/place/Urban+Nomads+Pune+%7C+Co-Live+%26+Co-Work/data=!4m10!3m9!1s0x3bc2c1dc76b45b0d:0x48d177f274aeb9e8!5m2!4m1!1i2!8m2!3d18.5404002!4d73.8989525!16s%2Fg%2F11h3qpzgtl!19sChIJDVu0dtzBwjsR6LmudPJ30Ug?authuser=0&hl=en&rclk=1",
+        "place_name": "Urban Nomads Pune | Co-Live & Co-Work",
+        "address": "Liberty Phase1, Bungalow No-5 North Main Road, opposite Lane 6, Koregaon Park, Pune, Maharashtra 411001",
+        "site": null,
+        "contact_number": "086260 18676"
     },
     {
         "url": "https://www.google.com/maps/place/Smart+Inn+-+A+Budget+Hotel/data=!4m10!3m9!1s0x3bc2c0787905877d:0x5ef273231b26cfce!5m2!4m1!1i2!8m2!3d18.5193787!4d73.8422633!16s%2Fg%2F1wj_4h3n!19sChIJfYcFeXjAwjsRzs8mGyNz8l4?authuser=0&hl=en&rclk=1",
@@ -35,13 +28,6 @@
         "contact_number": "095958 08811"
     },
     {
-        "url": "https://www.google.com/maps/place/Hotel+Phoenix/data=!4m10!3m9!1s0x3bc2c10b18678489:0x6d6c7222419e520e!5m2!4m1!1i2!8m2!3d18.5379141!4d73.9109222!16s%2Fg%2F1th55fnb!19sChIJiYRnGAvBwjsRDlKeQSJybG0?authuser=0&hl=en&rclk=1",
-        "place_name": "Hotel Phoenix",
-        "address": "near Army Sports Institute, Koregaon Park Annexe, Koregaon Park, Pune, Maharashtra 411001",
-        "site": null,
-        "contact_number": "020 4105 4105"
-    },
-    {
         "url": "https://www.google.com/maps/place/The+Grand+Tulip/data=!4m10!3m9!1s0x3bc2c1b12d8f493f:0xe76153432d8f32ab!5m2!4m1!1i2!8m2!3d18.5010977!4d73.8578497!16s%2Fg%2F11sj5d05k5!19sChIJP0mPLbHBwjsRqzKPLUNTYec?authuser=0&hl=en&rclk=1",
         "place_name": "The Grand Tulip",
         "address": "Swargate square, 1010, beside Natraj Hotel, Dadawadi, Shukrawar Peth, Pune, Maharashtra 411042",
@@ -49,10 +35,808 @@
         "contact_number": "093708 98800"
     },
     {
+        "url": "https://www.google.com/maps/place/Hotel+Mukesh+Residency/data=!4m10!3m9!1s0x3bc2c1ac3413750b:0x710e6f35f76dd70a!5m2!4m1!1i2!8m2!3d18.5177767!4d73.8744578!16s%2Fg%2F1tj3jj1j!19sChIJC3UTNKzBwjsRCtdt9zVvDnE?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Mukesh Residency",
+        "address": "Near Geeta Society, Synagauge Street, Lal Deval Society Rd, Camp, Pune, Maharashtra 411001",
+        "site": "hotelmukeshresidencypune.com",
+        "contact_number": null
+    },
+    {
+        "url": "https://www.google.com/maps/place/FabHotel+Prime+Golden+Emerald/data=!4m10!3m9!1s0x3bc2c023bcfa0843:0xdf0905a519d3cc33!5m2!4m1!1i2!8m2!3d18.4925219!4d73.8695552!16s%2Fg%2F1thx2h6f!19sChIJQwj6vCPAwjsRM8zTGaUFCd8?authuser=0&hl=en&rclk=1",
+        "place_name": "FabHotel Prime Golden Emerald",
+        "address": "Salisbury Park, Gultekdi, Mukund Nagar, Pune, Maharashtra 411037",
+        "site": "oyorooms.com",
+        "contact_number": "070424 24242"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Treebo+Trend+Classic+Grande,+Camp/data=!4m10!3m9!1s0x3bc2c11ebc4e85cb:0x14ca5c28095011ca!5m2!4m1!1i2!8m2!3d18.5072451!4d73.8770572!16s%2Fg%2F11p56c478k!19sChIJy4VOvB7BwjsRyhFQCShcyhQ?authuser=0&hl=en&rclk=1",
+        "place_name": "Treebo Trend Classic Grande, Camp",
+        "address": "2158, opp, MG Road, New Modikhana, Pune Cantonment, Pune, Maharashtra 411001",
+        "site": "treebo.com",
+        "contact_number": "093228 00100"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Tarawade+Clarks+Inn,+Pune/data=!4m10!3m9!1s0x3bc2c0793e65c9c3:0x4e1a5b229dfd052d!5m2!4m1!1i2!8m2!3d18.521852!4d73.846013!16s%2Fg%2F11b63rn0q3!19sChIJw8llPnnAwjsRLQX9nSJbGk4?authuser=0&hl=en&rclk=1",
+        "place_name": "Tarawade Clarks Inn, Pune",
+        "address": "No. 1205/2, 5, Shirole Road, off Jangali Maharaj Road, Shivajinagar, Pune, Maharashtra 411005",
+        "site": "theclarkshotels.com",
+        "contact_number": "077200 10401"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Sardar/data=!4m10!3m9!1s0x3bc2c06e0b3c6929:0x78a436f84e80d093!5m2!4m1!1i2!8m2!3d18.5266818!4d73.8747469!16s%2Fg%2F12m8_l0z7!19sChIJKWk8C27AwjsRk9CATvg2pHg?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Sardar",
+        "address": "6, Wilson Gardens, Railway Station, near Pune, Agarkar Nagar, Pune, Maharashtra 411001",
+        "site": null,
+        "contact_number": null
+    },
+    {
+        "url": "https://www.google.com/maps/place/Townhouse+OAK+The+Citiotel+Near+Shaniwar+Wada/data=!4m10!3m9!1s0x3bc2c07cde8e8b45:0xe794a9697f6b7ff4!5m2!4m1!1i2!8m2!3d18.5263148!4d73.8517488!16s%2Fg%2F1tj48y9n!19sChIJRYuO3nzAwjsR9H9rf2mplOc?authuser=0&hl=en&rclk=1",
+        "place_name": "Townhouse OAK The Citiotel Near Shaniwar Wada",
+        "address": "14, 364 + 365, off, Jangali Maharaj Rd, Shivajinagar, Pune, Maharashtra 411045",
+        "site": "oyorooms.com",
+        "contact_number": "0124 620 1217"
+    },
+    {
+        "url": "https://www.google.com/maps/place/AR+Suites+Jewels+Royale+%28Award+Winning+4-Star+Upscale+Apartment+Hotel%29/data=!4m10!3m9!1s0x3bc2c19f50c28273:0xf754868b32b47a83!5m2!4m1!1i2!8m2!3d18.5295847!4d73.9130994!16s%2Fg%2F11f157rbm7!19sChIJc4LCUJ_BwjsRg3q0MouGVPc?authuser=0&hl=en&rclk=1",
+        "place_name": "AR Suites Jewels Royale (Award Winning 4-Star Upscale Apartment Hotel)",
+        "address": "Koregaon Park NX, AR Suites Lane, next to Power Boulevard, near Passport office, Vanshaj Society, Pingale Wasti, Koregaon Park Annexe, Mundhwa, Pune, Maharashtra 411036",
+        "site": "ahujaresidences.com",
+        "contact_number": "093117 80181"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Orchard+Hotel/data=!4m10!3m9!1s0x3bc2c078f774d929:0xc1d811894130fb26!5m2!4m1!1i2!8m2!3d18.5202608!4d73.8440173!16s%2Fg%2F1pp2txc2x!19sChIJKdl093jAwjsRJvswQYkR2ME?authuser=0&hl=en&rclk=1",
+        "place_name": "Orchard Hotel",
+        "address": "Apte Rd, Shivajinagar, Pune, Maharashtra 411005",
+        "site": null,
+        "contact_number": "070717 31111"
+    },
+    {
+        "url": "https://www.google.com/maps/place/The+Altruist+Business+Hotel+Wagholi/data=!4m10!3m9!1s0x3bc2c3e55014573f:0xb084abb30213b1db!5m2!4m1!1i2!8m2!3d18.5733157!4d73.9573782!16s%2Fg%2F11kws3cf_k!19sChIJP1cUUOXDwjsR27ETArOrhLA?authuser=0&hl=en&rclk=1",
+        "place_name": "The Altruist Business Hotel Wagholi",
+        "address": "Gat No.1347, 1, near Rudra Motors, Ubale Nagar, Wagholi, Pune, Maharashtra 412207",
+        "site": "thealtruistindia.com",
+        "contact_number": "090560 60811"
+    },
+    {
+        "url": "https://www.google.com/maps/place/White+Castle+Heritage/data=!4m10!3m9!1s0x3bc2c11404e5581d:0x5b7979cecb32726c!5m2!4m1!1i2!8m2!3d18.5609464!4d73.9231288!16s%2Fg%2F11fhlkxllz!19sChIJHVjlBBTBwjsRbHIyy855eVs?authuser=0&hl=en&rclk=1",
+        "place_name": "White Castle Heritage",
+        "address": "Sr.45A/2, Bus Stop, Lane, Nagar Rd, opp. Pachwa Mail Brt, near E Space It Park, Somnath Nagar, Wadgaon Sheri, Pune, Maharashtra 411014",
+        "site": "oyorooms.com",
+        "contact_number": "070207 06851"
+    },
+    {
         "url": "https://www.google.com/maps/place/Hotel+Kapil+Residency+Pune+Budget+hotel+near+Pune+Railway+station/data=!4m10!3m9!1s0x3bc2c05df16a5515:0x2a6b0abf570b040c!5m2!4m1!1i2!8m2!3d18.5239543!4d73.8660639!16s%2Fg%2F11bxj8z0mj!19sChIJFVVq8V3AwjsRDAQLV78Kayo?authuser=0&hl=en&rclk=1",
         "place_name": "Hotel Kapil Residency Pune Budget hotel near Pune Railway station",
         "address": "near Sinchan Bhavan, New Mangalwar Peth, Mangalwar Peth, Kasba Peth, Pune, Maharashtra 411011",
         "site": "hotelkapilresidencypune.com",
         "contact_number": "080 4804 0554"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Treebo+Sahara/data=!4m10!3m9!1s0x3bc2bf7780fd4859:0x2320984717a090e8!5m2!4m1!1i2!8m2!3d18.5370111!4d73.8304072!16s%2Fg%2F1v5_7wlg!19sChIJWUj9gHe_wjsR6JCgF0eYICM?authuser=0&hl=en&rclk=1",
+        "place_name": "Treebo Sahara",
+        "address": "Sr No 106, 3A, Senapati Bapat Rd, opp. J W Marriott, Shivajinagar, Pune, Maharashtra 411016",
+        "site": "treebo.com",
+        "contact_number": "093228 00100"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Tiranga+Residency/data=!4m10!3m9!1s0x3bc2c06f6aa7e635:0xc70427887dd97598!5m2!4m1!1i2!8m2!3d18.5167867!4d73.8584444!16s%2Fg%2F12cnx_kc7!19sChIJNeanam_AwjsRmHXZfYgnBMc?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Tiranga Residency",
+        "address": "399, Budhwar Peth, Pune, Maharashtra 411002",
+        "site": null,
+        "contact_number": "020 2449 0190"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+RajMahal/data=!4m10!3m9!1s0x3bc2c01cb6d00001:0x75b62a6865324a88!5m2!4m1!1i2!8m2!3d18.4975382!4d73.8539216!16s%2Fg%2F1v8y2hc7!19sChIJAQDQthzAwjsRiEoyZWgqtnU?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel RajMahal",
+        "address": "Mitra Mandal Chowk, near Sarasbag, Parvati, Mitra Mandal Colony, Parvati Paytha, Pune, Maharashtra 411009",
+        "site": null,
+        "contact_number": "020 2442 0425"
+    },
+    {
+        "url": "https://www.google.com/maps/place/The+Deccan+Royaale/data=!4m10!3m9!1s0x3bc2c158021abfc7:0x94353a6737b6a750!5m2!4m1!1i2!8m2!3d18.5192342!4d73.8454338!16s%2Fg%2F11kqw60s5v!19sChIJx78aAljBwjsRUKe2N2c6NZQ?authuser=0&hl=en&rclk=1",
+        "place_name": "The Deccan Royaale",
+        "address": "Jangli Maharaj Road, 573/2, The Deccan Royaale, J.M Road ( Jungli Maharaj Road, 411004, Pune, Maharashtra 411004",
+        "site": null,
+        "contact_number": null
+    },
+    {
+        "url": "https://www.google.com/maps/place/The+Deccan+Royaale/data=!4m10!3m9!1s0x3bc2c158021abfc7:0x94353a6737b6a750!5m2!4m1!1i2!8m2!3d18.5192342!4d73.8454338!16s%2Fg%2F11kqw60s5v!19sChIJx78aAljBwjsRUKe2N2c6NZQ?authuser=0&hl=en&rclk=1",
+        "place_name": "The Deccan Royaale",
+        "address": "Jangli Maharaj Road, 573/2, The Deccan Royaale, J.M Road ( Jungli Maharaj Road, 411004, Pune, Maharashtra 411004",
+        "site": null,
+        "contact_number": null
+    },
+    {
+        "url": "https://www.google.com/maps/place/Tarawade+Clarks+Inn,+Pune/data=!4m10!3m9!1s0x3bc2c0793e65c9c3:0x4e1a5b229dfd052d!5m2!4m1!1i2!8m2!3d18.521852!4d73.846013!16s%2Fg%2F11b63rn0q3!19sChIJw8llPnnAwjsRLQX9nSJbGk4?authuser=0&hl=en&rclk=1",
+        "place_name": "Tarawade Clarks Inn, Pune",
+        "address": "No. 1205/2, 5, Shirole Road, off Jangali Maharaj Road, Shivajinagar, Pune, Maharashtra 411005",
+        "site": "theclarkshotels.com",
+        "contact_number": "077200 10401"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Radiant/data=!4m10!3m9!1s0x3bc2c07c142c403b:0xeaaa652d1dfb6f08!5m2!4m1!1i2!8m2!3d18.5251277!4d73.8494709!16s%2Fg%2F1vtqtk0h!19sChIJO0AsFHzAwjsRCG_7HS1lquo?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Radiant",
+        "address": "1170/4, Jangali Maharaj Rd, near Modern High School, Revenue Colony, Pune, Maharashtra 411005",
+        "site": "hotelradiant.com",
+        "contact_number": "020 2951 5222"
+    },
+    {
+        "url": "https://www.google.com/maps/place/The+Ritz-Carlton,+Pune/data=!4m10!3m9!1s0x3bc2c11e391e00c7:0xb39bd584c3fe4cdf!5m2!4m1!1i2!8m2!3d18.552238!4d73.89036!16s%2Fg%2F11ckkq_ds4!19sChIJxwAeOR7BwjsR30z-w4TVm7M?authuser=0&hl=en&rclk=1",
+        "place_name": "The Ritz-Carlton, Pune",
+        "address": "Golf Course Square, Airport Rd, Jayprakash Nagar, Yerawada, Pune, Maharashtra 411006",
+        "site": "ritzcarlton.com",
+        "contact_number": "020 6767 5000"
+    },
+    {
+        "url": "https://www.google.com/maps/place/FabExpress+Galaxy+Apartments+-+Hotel+in+Kharadi,+Pune/data=!4m10!3m9!1s0x3bc2c3e052d2da0d:0x68ff69dc2ee82f27!5m2!4m1!1i2!8m2!3d18.5627985!4d73.938268!16s%2Fg%2F11f4wtsths!19sChIJDdrSUuDDwjsRJy_oLtxp_2g?authuser=0&hl=en&rclk=1",
+        "place_name": "FabExpress Galaxy Apartments - Hotel in Kharadi, Pune",
+        "address": "Mundhwa - Kharadi Rd, behind Satkar Hotel, Shree Ram Society, Chandan Nagar, Kharadi, Pune, Maharashtra 411014",
+        "site": "fabhotels.com",
+        "contact_number": "070424 24242"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Orchard+Hotel/data=!4m10!3m9!1s0x3bc2c078f774d929:0xc1d811894130fb26!5m2!4m1!1i2!8m2!3d18.5202608!4d73.8440173!16s%2Fg%2F1pp2txc2x!19sChIJKdl093jAwjsRJvswQYkR2ME?authuser=0&hl=en&rclk=1",
+        "place_name": "Orchard Hotel",
+        "address": "Apte Rd, Shivajinagar, Pune, Maharashtra 411005",
+        "site": null,
+        "contact_number": "070717 31111"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Bloom+Hotel+-+Koregaon+Park/data=!4m10!3m9!1s0x3bc2c1c6558e47d3:0x329ac7b7e4c5f63e!5m2!4m1!1i2!8m2!3d18.5407902!4d73.8947362!16s%2Fg%2F11kj0y0zcl!19sChIJ00eOVcbBwjsRPvbF5LfHmjI?authuser=0&hl=en&rclk=1",
+        "place_name": "Bloom Hotel - Koregaon Park",
+        "address": "23, Koregaon Park-E Rd, near Primrose Nursery School, Ragvilas Society, Koregaon Park, Pune, Maharashtra 411001",
+        "site": "staybloom.com",
+        "contact_number": "098603 36328"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Sardar/data=!4m10!3m9!1s0x3bc2c06e0b3c6929:0x78a436f84e80d093!5m2!4m1!1i2!8m2!3d18.5266818!4d73.8747469!16s%2Fg%2F12m8_l0z7!19sChIJKWk8C27AwjsRk9CATvg2pHg?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Sardar",
+        "address": "6, Wilson Gardens, Railway Station, near Pune, Agarkar Nagar, Pune, Maharashtra 411001",
+        "site": null,
+        "contact_number": null
+    },
+    {
+        "url": "https://www.google.com/maps/place/The+Ambassador+Hotel/data=!4m10!3m9!1s0x3bc2bf801b965fe5:0xe3d066e6b9ea3136!5m2!4m1!1i2!8m2!3d18.5280278!4d73.8409455!16s%2Fg%2F1w663v_r!19sChIJ5V-WG4C_wjsRNjHqueZm0OM?authuser=0&hl=en&rclk=1",
+        "place_name": "The Ambassador Hotel",
+        "address": "1125, Model Colony, Shivajinagar, Pune, Maharashtra 411016",
+        "site": "theambassadorhotelpune.com",
+        "contact_number": "096659 16066"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Jugglers+Backpack/data=!4m10!3m9!1s0x3bc2c146e0f16807:0xd877c3a33d07d968!5m2!4m1!1i2!8m2!3d18.5400275!4d73.891224!16s%2Fg%2F11h5ptyvd_!19sChIJB2jx4EbBwjsRaNkHPaPDd9g?authuser=0&hl=en&rclk=1",
+        "place_name": "Jugglers Backpack",
+        "address": "25A, C Ln, beside budhha paradise cafe, Ragvilas Society, Koregaon Park, Pune, Maharashtra 411001",
+        "site": null,
+        "contact_number": "099993 09921"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Kapil+Residency+Pune+Budget+hotel+near+Pune+Railway+station/data=!4m10!3m9!1s0x3bc2c05df16a5515:0x2a6b0abf570b040c!5m2!4m1!1i2!8m2!3d18.5239543!4d73.8660639!16s%2Fg%2F11bxj8z0mj!19sChIJFVVq8V3AwjsRDAQLV78Kayo?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Kapil Residency Pune Budget hotel near Pune Railway station",
+        "address": "near Sinchan Bhavan, New Mangalwar Peth, Mangalwar Peth, Kasba Peth, Pune, Maharashtra 411011",
+        "site": "hotelkapilresidencypune.com",
+        "contact_number": "080 4804 0554"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Radhika/data=!4m10!3m9!1s0x3bc2c04268ec0001:0x8f97ec478011e0bc!5m2!4m1!1i2!8m2!3d18.5154714!4d73.8666455!16s%2Fg%2F11g9vvhcqf!19sChIJAQDsaELAwjsRvOARgEfsl48?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Radhika",
+        "address": "564, Laxmi Rd, near Chacha Halwai Building, New Nana Peth, Ganesh Peth, Pune, Maharashtra 411002",
+        "site": null,
+        "contact_number": "020 2633 6202"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Kapila+Business+Hotel/data=!4m10!3m9!1s0x3bc2c0f776a67417:0xb2d9b3643e2a454f!5m2!4m1!1i2!8m2!3d18.5345511!4d73.8761788!16s%2Fg%2F11b6gjbjrm!19sChIJF3SmdvfAwjsRT0UqPmSz2bI?authuser=0&hl=en&rclk=1",
+        "place_name": "Kapila Business Hotel",
+        "address": "174, Balkrishna Sakharam Dhole Patil Rd, Sangamvadi, Pune, Maharashtra 411001",
+        "site": "hotelkapila.com",
+        "contact_number": "020 6644 6644"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Four+Points+by+Sheraton+Hotel+%26+Serviced+Apartments,+Pune/data=!4m10!3m9!1s0x3bc2c1436ce60141:0x535235fae8ff371!5m2!4m1!1i2!8m2!3d18.5629642!4d73.9222622!16s%2Fg%2F1tczhy6c!19sChIJQQHmbEPBwjsRcfOPrl8jNQU?authuser=0&hl=en&rclk=1",
+        "place_name": "Four Points by Sheraton Hotel & Serviced Apartments, Pune",
+        "address": "5th Mile Stone, Viman Nagar, Pune, Maharashtra 411014",
+        "site": "marriott.com",
+        "contact_number": "020 6760 6699"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Novotel+Pune+Nagar+Road/data=!4m10!3m9!1s0x3bc2c13f953dc837:0xb6782032b34e422e!5m2!4m1!1i2!8m2!3d18.5589504!4d73.9109449!16s%2Fg%2F124yp3wby!19sChIJN8g9lT_BwjsRLkJOszIgeLY?authuser=0&hl=en&rclk=1",
+        "place_name": "Novotel Pune Nagar Road",
+        "address": "City Infopark, WEIKFIELD IT CITI INFO PARK, Sakore Nagar, Viman Nagar, Pune, Maharashtra 411014",
+        "site": "accor.com",
+        "contact_number": "020 6705 6000"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Conrad+Pune/data=!4m10!3m9!1s0x3bc2c0fe9a07d0ab:0xe8b6e5fd4b49952b!5m2!4m1!1i2!8m2!3d18.5350958!4d73.883044!16s%2Fg%2F11byt7mk_n!19sChIJq9AHmv7AwjsRK5VJS_3ltug?authuser=0&hl=en&rclk=1",
+        "place_name": "Conrad Pune",
+        "address": "7, Mangaldas Rd, Sangamvadi, Pune, Maharashtra 411001",
+        "site": "hilton.com",
+        "contact_number": "020 6745 6745"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Satkar/data=!4m10!3m9!1s0x3bc2c086fd489143:0xe48a73fcf94c4fac!5m2!4m1!1i2!8m2!3d18.5308353!4d73.8509412!16s%2Fg%2F1tff1h3b!19sChIJQ5FI_YbAwjsRrE9M-fxziuQ?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Satkar",
+        "address": "Shivajinagar ST Stand, opp. Shivaji Nagar, near Chhatrapati Shivaji Maharaj Nagar Railway Station Road, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005",
+        "site": null,
+        "contact_number": "020 2553 8196"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Radisson+Blu+Hotel,+Pune+Kharadi/data=!4m10!3m9!1s0x3bc2c3d8c5ab8501:0x5984b80264a16012!5m2!4m1!1i2!8m2!3d18.5533931!4d73.9379346!16s%2Fg%2F11cnd9qsrf!19sChIJAYWrxdjDwjsREmChZAK4hFk?authuser=0&hl=en&rclk=1",
+        "place_name": "Radisson Blu Hotel, Pune Kharadi",
+        "address": "Nagar Rd, Pandhari Nagar, Kharadi, Pune, Maharashtra 411014",
+        "site": "radissonhotels.com",
+        "contact_number": "020 2706 0606"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Ritz/data=!4m10!3m9!1s0x3bc2c045369d01a1:0x7301687045c944cd!5m2!4m1!1i2!8m2!3d18.5234833!4d73.8765892!16s%2Fg%2F11c2pq9jpp!19sChIJoQGdNkXAwjsRzUTJRXBoAXM?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Ritz",
+        "address": "Sadhu Vaswani Chowk, 6, Connaught Rd, opp. GPO, opp. sadhu Vaswani mission, Sangamvadi, Pune, Maharashtra 411001",
+        "site": null,
+        "contact_number": "020 2612 2995"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Moistin+Pune+%7C+Business+Class+Hotel+%7C+Corporate+Hotel/data=!4m10!3m9!1s0x3bc2c1bbaed32651:0xd336c301ef6c6653!5m2!4m1!1i2!8m2!3d18.5030131!4d73.9337644!16s%2Fg%2F11s88_gjjs!19sChIJUSbTrrvBwjsRU2Zs7wHDNtM?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Moistin Pune | Business Class Hotel | Corporate Hotel",
+        "address": "Aru Nagar, Bhosale Nagar, Hadapsar, Pune, Maharashtra 411028",
+        "site": "hotelmoistinpune.com",
+        "contact_number": "080 4805 9668"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Kapil+Residency+Pune+Budget+hotel+near+Pune+Railway+station/data=!4m10!3m9!1s0x3bc2c05df16a5515:0x2a6b0abf570b040c!5m2!4m1!1i2!8m2!3d18.5239543!4d73.8660639!16s%2Fg%2F11bxj8z0mj!19sChIJFVVq8V3AwjsRDAQLV78Kayo?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Kapil Residency Pune Budget hotel near Pune Railway station",
+        "address": "near Sinchan Bhavan, New Mangalwar Peth, Mangalwar Peth, Kasba Peth, Pune, Maharashtra 411011",
+        "site": "hotelkapilresidencypune.com",
+        "contact_number": "080 4804 0554"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Radhika/data=!4m10!3m9!1s0x3bc2c04268ec0001:0x8f97ec478011e0bc!5m2!4m1!1i2!8m2!3d18.5154714!4d73.8666455!16s%2Fg%2F11g9vvhcqf!19sChIJAQDsaELAwjsRvOARgEfsl48?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Radhika",
+        "address": "564, Laxmi Rd, near Chacha Halwai Building, New Nana Peth, Ganesh Peth, Pune, Maharashtra 411002",
+        "site": null,
+        "contact_number": "020 2633 6202"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Kapila+Business+Hotel/data=!4m10!3m9!1s0x3bc2c0f776a67417:0xb2d9b3643e2a454f!5m2!4m1!1i2!8m2!3d18.5345511!4d73.8761788!16s%2Fg%2F11b6gjbjrm!19sChIJF3SmdvfAwjsRT0UqPmSz2bI?authuser=0&hl=en&rclk=1",
+        "place_name": "Kapila Business Hotel",
+        "address": "174, Balkrishna Sakharam Dhole Patil Rd, Sangamvadi, Pune, Maharashtra 411001",
+        "site": "hotelkapila.com",
+        "contact_number": "020 6644 6644"
+    },
+    {
+        "url": "https://www.google.com/maps/place/THE+UPPER+ROOM+HOTEL/data=!4m10!3m9!1s0x3bc2c12b47c35ff1:0x7c9a2fa3f5af8a04!5m2!4m1!1i2!8m2!3d18.5784473!4d73.893354!16s%2Fg%2F11f4jb6_f6!19sChIJ8V_DRyvBwjsRBIqv9aMvmnw?authuser=0&hl=en&rclk=1",
+        "place_name": "THE UPPER ROOM HOTEL",
+        "address": "Sr no.34/2, Plot no. 109, Road 13, lane 13-E, Near Pragati chowk Vidyanagar, Vishrantwadi Airport Rd, Adarsh Colony, Pune, Maharashtra 411032",
+        "site": null,
+        "contact_number": "095185 48395"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Four+Points+by+Sheraton+Hotel+%26+Serviced+Apartments,+Pune/data=!4m10!3m9!1s0x3bc2c1436ce60141:0x535235fae8ff371!5m2!4m1!1i2!8m2!3d18.5629642!4d73.9222622!16s%2Fg%2F1tczhy6c!19sChIJQQHmbEPBwjsRcfOPrl8jNQU?authuser=0&hl=en&rclk=1",
+        "place_name": "Four Points by Sheraton Hotel & Serviced Apartments, Pune",
+        "address": "5th Mile Stone, Viman Nagar, Pune, Maharashtra 411014",
+        "site": "marriott.com",
+        "contact_number": "020 6760 6699"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Novotel+Pune+Nagar+Road/data=!4m10!3m9!1s0x3bc2c13f953dc837:0xb6782032b34e422e!5m2!4m1!1i2!8m2!3d18.5589504!4d73.9109449!16s%2Fg%2F124yp3wby!19sChIJN8g9lT_BwjsRLkJOszIgeLY?authuser=0&hl=en&rclk=1",
+        "place_name": "Novotel Pune Nagar Road",
+        "address": "City Infopark, WEIKFIELD IT CITI INFO PARK, Sakore Nagar, Viman Nagar, Pune, Maharashtra 411014",
+        "site": "accor.com",
+        "contact_number": "020 6705 6000"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Magnus+Star+Residency,+Koregaon+Park+Annexe/data=!4m10!3m9!1s0x3bc2c1a1e6da5d7f:0x7acc9c2299c503a4!5m2!4m1!1i2!8m2!3d18.5299602!4d73.9120702!16s%2Fg%2F11b5ymggsz!19sChIJf13a5qHBwjsRpAPFmSKczHo?authuser=0&hl=en&rclk=1",
+        "place_name": "Magnus Star Residency, Koregaon Park Annexe",
+        "address": "Near Passport Office 2nd Main, Vanshaj Society, Pingale Wasti, Koregaon Park Annexe, Mundhwa, Pune, Maharashtra 411036",
+        "site": "staymagnus.com",
+        "contact_number": "084849 54750"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Conrad+Pune/data=!4m10!3m9!1s0x3bc2c0fe9a07d0ab:0xe8b6e5fd4b49952b!5m2!4m1!1i2!8m2!3d18.5350958!4d73.883044!16s%2Fg%2F11byt7mk_n!19sChIJq9AHmv7AwjsRK5VJS_3ltug?authuser=0&hl=en&rclk=1",
+        "place_name": "Conrad Pune",
+        "address": "7, Mangaldas Rd, Sangamvadi, Pune, Maharashtra 411001",
+        "site": "hilton.com",
+        "contact_number": "020 6745 6745"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Satkar/data=!4m10!3m9!1s0x3bc2c086fd489143:0xe48a73fcf94c4fac!5m2!4m1!1i2!8m2!3d18.5308353!4d73.8509412!16s%2Fg%2F1tff1h3b!19sChIJQ5FI_YbAwjsRrE9M-fxziuQ?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Satkar",
+        "address": "Shivajinagar ST Stand, opp. Shivaji Nagar, near Chhatrapati Shivaji Maharaj Nagar Railway Station Road, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005",
+        "site": null,
+        "contact_number": "020 2553 8196"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Radisson+Blu+Hotel,+Pune+Kharadi/data=!4m10!3m9!1s0x3bc2c3d8c5ab8501:0x5984b80264a16012!5m2!4m1!1i2!8m2!3d18.5533931!4d73.9379346!16s%2Fg%2F11cnd9qsrf!19sChIJAYWrxdjDwjsREmChZAK4hFk?authuser=0&hl=en&rclk=1",
+        "place_name": "Radisson Blu Hotel, Pune Kharadi",
+        "address": "Nagar Rd, Pandhari Nagar, Kharadi, Pune, Maharashtra 411014",
+        "site": "radissonhotels.com",
+        "contact_number": "020 2706 0606"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Rudra+Residency/data=!4m10!3m9!1s0x3bc2bfddd733ddcf:0xe1708854255484eb!5m2!4m1!1i2!8m2!3d18.4854674!4d73.8155378!16s%2Fg%2F11dfwz7wfw!19sChIJz90z192_wjsR64RUJVSIcOE?authuser=0&hl=en&rclk=1",
+        "place_name": "Rudra Residency",
+        "address": "11/2, Lane No. 1, Sahu Colony, Karve Nagar, Pune, Maharashtra 411052",
+        "site": null,
+        "contact_number": "020 2547 8090"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Ritz/data=!4m10!3m9!1s0x3bc2c045369d01a1:0x7301687045c944cd!5m2!4m1!1i2!8m2!3d18.5234833!4d73.8765892!16s%2Fg%2F11c2pq9jpp!19sChIJoQGdNkXAwjsRzUTJRXBoAXM?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Ritz",
+        "address": "Sadhu Vaswani Chowk, 6, Connaught Rd, opp. GPO, opp. sadhu Vaswani mission, Sangamvadi, Pune, Maharashtra 411001",
+        "site": null,
+        "contact_number": "020 2612 2995"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Moistin+Pune+%7C+Business+Class+Hotel+%7C+Corporate+Hotel/data=!4m10!3m9!1s0x3bc2c1bbaed32651:0xd336c301ef6c6653!5m2!4m1!1i2!8m2!3d18.5030131!4d73.9337644!16s%2Fg%2F11s88_gjjs!19sChIJUSbTrrvBwjsRU2Zs7wHDNtM?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Moistin Pune | Business Class Hotel | Corporate Hotel",
+        "address": "Aru Nagar, Bhosale Nagar, Hadapsar, Pune, Maharashtra 411028",
+        "site": "hotelmoistinpune.com",
+        "contact_number": "080 4805 9668"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Townhouse+Amanora+Park+Town/data=!4m10!3m9!1s0x3bc2c23d3f07d94d:0x39a8b4c55209ab2d!5m2!4m1!1i2!8m2!3d18.5175221!4d73.9503341!16s%2Fg%2F11w1kh12qv!19sChIJTdkHPz3CwjsRLasJUsW0qDk?authuser=0&hl=en&rclk=1",
+        "place_name": "Townhouse Amanora Park Town",
+        "address": "Hissa Number 2D/2, Plot Number 195, near Hanuman Mandir, Sade Satra Nali, Hadapsar, Pune, Maharashtra 411028",
+        "site": "oyorooms.com",
+        "contact_number": "0124 433 0599"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Treebo+Sahara/data=!4m10!3m9!1s0x3bc2bf7780fd4859:0x2320984717a090e8!5m2!4m1!1i2!8m2!3d18.5370111!4d73.8304072!16s%2Fg%2F1v5_7wlg!19sChIJWUj9gHe_wjsR6JCgF0eYICM?authuser=0&hl=en&rclk=1",
+        "place_name": "Treebo Sahara",
+        "address": "Sr No 106, 3A, Senapati Bapat Rd, opp. J W Marriott, Shivajinagar, Pune, Maharashtra 411016",
+        "site": "treebo.com",
+        "contact_number": "093228 00100"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Treebo+Town+Plaza,+Pune+Station/data=!4m10!3m9!1s0x3bc2c148038c61c5:0x27e88cc93f96f76f!5m2!4m1!1i2!8m2!3d18.5159234!4d73.8778304!16s%2Fg%2F11tf_yf6_b!19sChIJxWGMA0jBwjsRb_eWP8mM6Cc?authuser=0&hl=en&rclk=1",
+        "place_name": "Treebo Town Plaza, Pune Station",
+        "address": "671, Oswal House, Taboot St, Camp, Pune, Maharashtra 411001",
+        "site": "treebo.com",
+        "contact_number": "093228 00100"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Phoenix/data=!4m10!3m9!1s0x3bc2c10b18678489:0x6d6c7222419e520e!5m2!4m1!1i2!8m2!3d18.5379141!4d73.9109222!16s%2Fg%2F1th55fnb!19sChIJiYRnGAvBwjsRDlKeQSJybG0?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Phoenix",
+        "address": "near Army Sports Institute, Koregaon Park Annexe, Koregaon Park, Pune, Maharashtra 411001",
+        "site": null,
+        "contact_number": "020 4105 4105"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Treebo+Kuber+Inn/data=!4m10!3m9!1s0x3bc2c12192b30243:0x7a0010c404d8c5e3!5m2!4m1!1i2!8m2!3d18.5602434!4d73.9195038!16s%2Fg%2F11j8k0m3w5!19sChIJQwKzkiHBwjsR48XYBMQQAHo?authuser=0&hl=en&rclk=1",
+        "place_name": "Treebo Kuber Inn",
+        "address": "Hotel Kuber Inn Sr No 34 A/6/6,KV Nager Next To Shakti Sports Opp Phoenix Mall, Viman Nagar, Pune, Maharashtra 411014",
+        "site": "treebo.com",
+        "contact_number": "093228 00100"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Iris/data=!4m10!3m9!1s0x3bc2c0ff9cba5627:0xb71dfc104a26c138!5m2!4m1!1i2!8m2!3d18.5322534!4d73.8969069!16s%2Fg%2F11b73sr8__!19sChIJJ1a6nP_AwjsROMEmShD8Hbc?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Iris",
+        "address": "Green Terrace Society Lane No 5, S Main Rd, Koregaon Park, Pune, Maharashtra 411001",
+        "site": null,
+        "contact_number": "070424 24242"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Magnus+Riverside,+Kalyani+Nagar/data=!4m10!3m9!1s0x3bc2c1cfb9f9d58b:0xe1e36ef0e8810361!5m2!4m1!1i2!8m2!3d18.543918!4d73.9037143!16s%2Fg%2F11pzx5t1dy!19sChIJi9X5uc_BwjsRYQOB6PBu4-E?authuser=0&hl=en&rclk=1",
+        "place_name": "Magnus Riverside, Kalyani Nagar",
+        "address": "SKY ONE TOWER, Lane No. 7, opp. Manikchand, Kalyani Nagar, Pune, Maharashtra 411006",
+        "site": "staymagnus.com",
+        "contact_number": "084849 54750"
+    },
+    {
+        "url": "https://www.google.com/maps/place/The+Westin+Pune+Koregaon+Park/data=!4m10!3m9!1s0x3bc2c109522d9db5:0xcc8ef2da134edd62!5m2!4m1!1i2!8m2!3d18.5389872!4d73.9059319!16s%2Fg%2F1tfkd0ms!19sChIJtZ0tUgnBwjsRYt1OE9ryjsw?authuser=0&hl=en&rclk=1",
+        "place_name": "The Westin Pune Koregaon Park",
+        "address": "36/3-B, Mundhwa Rd, Koregaon Park Annexe, Ghorpadi, Pune, Maharashtra 411001",
+        "site": "marriott.com",
+        "contact_number": "020 6721 0000"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Silver+key+Near+Arup+Hospital+Near+Pune+Airport/data=!4m10!3m9!1s0x3bc2c12efd04a46d:0x2b3d646cc348dbbf!5m2!4m1!1i2!8m2!3d18.5515078!4d73.9207089!16s%2Fg%2F11hzm1701c!19sChIJbaQE_S7BwjsRv9tIw2xkPSs?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Silver key Near Arup Hospital Near Pune Airport",
+        "address": "Gaurav Complex, Shanti Vihar, Lane No. 3, opposite Kothari Chartiable Trust Tempo Chowk, Balaji Uddyam Nagar, Sainikwadi, Wadgaon Sheri, Pune, Maharashtra 411014",
+        "site": "oyorooms.com",
+        "contact_number": "0124 433 0564"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Super+Collection+O+Pashan-Sus+Road+Baner+formerly+Hotel+Grey+stone/data=!4m10!3m9!1s0x3bc2bfc416b5b89d:0x54e4fcb4688870d0!5m2!4m1!1i2!8m2!3d18.5493903!4d73.7693509!16s%2Fg%2F11l6wdryrc!19sChIJnbi1FsS_wjsR0HCIaLT85FQ?authuser=0&hl=en&rclk=1",
+        "place_name": "Super Collection O Pashan-Sus Road Baner formerly Hotel Grey stone",
+        "address": "4th Floor, Platinum Techno Park, Sr No 55, Pashan - Sus Rd, behind Audi Showroom, Mohan Nagar Co-Op Society, Baner, Pune, Maharashtra 411021",
+        "site": "oyorooms.com",
+        "contact_number": "0124 433 0599"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Itsy+Hotels+Punest/data=!4m10!3m9!1s0x3bc2e90ff636e24f:0xc6dbd10a1fadf519!5m2!4m1!1i2!8m2!3d18.4831247!4d73.9536016!16s%2Fg%2F11j8mw4mym!19sChIJT-I29g_pwjsRGfWtHwrR28Y?authuser=0&hl=en&rclk=1",
+        "place_name": "Itsy Hotels Punest",
+        "address": "PMPML, Bus Depo, Saswad Rd, near Bhekrai Nagar, Bhekrai Nagar, Hadapsar, Pune, Maharashtra 412308",
+        "site": "treebo.com",
+        "contact_number": "093228 00100"
+    },
+    {
+        "url": "https://www.google.com/maps/place/FabHotel+Prime+Embassy/data=!4m10!3m9!1s0x3bc2c3e9780a16bd:0xc8ef77c926cf7492!5m2!4m1!1i2!8m2!3d18.5255132!4d73.9559261!16s%2Fg%2F11lm_sw61_!19sChIJvRYKeOnDwjsRknTPJsl378g?authuser=0&hl=en&rclk=1",
+        "place_name": "FabHotel Prime Embassy",
+        "address": "Sai Krishna society, 2nd floor, G mall,Mundhwa-Manjari road, Manjari - Kharadi, near z corner, Pune, Maharashtra 412307",
+        "site": "fabhotels.com",
+        "contact_number": "070424 24242"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Bloom+Hotel+-+Magarpatta/data=!4m10!3m9!1s0x3bcb9997e948dfaf:0x582d6265e7d17ed0!5m2!4m1!1i2!8m2!3d18.5027099!4d73.9289669!16s%2Fg%2F11sc_hhg5k!19sChIJr99I6ZeZyzsR0H7R52ViLVg?authuser=0&hl=en&rclk=1",
+        "place_name": "Bloom Hotel - Magarpatta",
+        "address": "Lohiya Nagar Laxmi Vihar, Solapur Rd, Magarpatta, Hadapsar, Pune, Maharashtra 411028",
+        "site": "staybloom.com",
+        "contact_number": "080077 11809"
+    },
+    {
+        "url": "https://www.google.com/maps/place/The+Samrat+Hotel/data=!4m10!3m9!1s0x3bc2c059a0a81263:0x7015f964e3b46daf!5m2!4m1!1i2!8m2!3d18.5271946!4d73.8743433!16s%2Fg%2F1tn047bs!19sChIJYxKooFnAwjsRr22042T5FXA?authuser=0&hl=en&rclk=1",
+        "place_name": "The Samrat Hotel",
+        "address": "Wilson Gardens, Jay Prakash Narayan Udyan, 17, opp. PUNE RAILWAY STATION, Pune, Maharashtra 411001",
+        "site": "thesamrathotelpune.com",
+        "contact_number": "020 2613 7964"
+    },
+    {
+        "url": "https://www.google.com/maps/place/FabHotel+Gandharva+Residency+-+Hotel+in+Swargate,+Pune/data=!4m10!3m9!1s0x3bc2c1858f4f6007:0x892610e26d440377!5m2!4m1!1i2!8m2!3d18.5011648!4d73.8690179!16s%2Fg%2F11t46qw871!19sChIJB2BPj4XBwjsRdwNEbeIQJok?authuser=0&hl=en&rclk=1",
+        "place_name": "FabHotel Gandharva Residency - Hotel in Swargate, Pune",
+        "address": "Punn (N/ Corp, SNO 37/2, Shankar Sheth Rd, Gultekadi, Pune, Maharashtra 411037",
+        "site": "fabhotels.com",
+        "contact_number": null
+    },
+    {
+        "url": "https://www.google.com/maps/place/The+Centurion+Hotel/data=!4m10!3m9!1s0x3bc2c1ef41fff299:0x8b8482c23d32a64a!5m2!4m1!1i2!8m2!3d18.530988!4d73.8500037!16s%2Fg%2F11t9w17jdv!19sChIJmfL_Qe_BwjsRSqYyPcKChIs?authuser=0&hl=en&rclk=1",
+        "place_name": "The Centurion Hotel",
+        "address": "Centurion hotel, opp. Akashwani, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005",
+        "site": "thecenturionhotel.com",
+        "contact_number": "020 2551 0600"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Lemon+Tree+Hotel,+Viman+Nagar/data=!4m10!3m9!1s0x3bc2c1193ee612bd:0xab053eabcb99a5f2!5m2!4m1!1i2!8m2!3d18.5620442!4d73.9080251!16s%2Fg%2F11h0rs911v!19sChIJvRLmPhnBwjsR8qWZy6s-Bas?authuser=0&hl=en&rclk=1",
+        "place_name": "Lemon Tree Hotel, Viman Nagar",
+        "address": "No. 100, Lalwani Vastu, 101, Sakore Nagar Rd, Sakore Nagar, Viman Nagar, Pune, Maharashtra 411014",
+        "site": "lemontreehotels.com",
+        "contact_number": "020 6743 2000"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Choice+Classic+Hotel/data=!4m10!3m9!1s0x3bc2c042875ef14d:0xd3403d8e6c1f1f44!5m2!4m1!1i2!8m2!3d18.5218915!4d73.8694343!16s%2Fg%2F1twyx_37!19sChIJTfFeh0LAwjsRRB8fbI49QNM?authuser=0&hl=en&rclk=1",
+        "place_name": "Choice Classic Hotel",
+        "address": "613, Agyari Rd, near Parsi, next to Indian Bank, New Nana Peth, Somwar Peth, Pune, Maharashtra 411002",
+        "site": null,
+        "contact_number": "091306 61188"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Sheraton+Grand+Pune+Bund+Garden+Hotel/data=!4m10!3m9!1s0x3bc2c05f4d08cca9:0x15888f834fad6cf7!5m2!4m1!1i2!8m2!3d18.529933!4d73.8713461!16s%2Fg%2F1tg9ll3b!19sChIJqcwITV_AwjsR92ytT4OPiBU?authuser=0&hl=en&rclk=1",
+        "place_name": "Sheraton Grand Pune Bund Garden Hotel",
+        "address": "Raja Bahadur Mill Rd, Sangamvadi, Pune, Maharashtra 411001",
+        "site": "marriott.com",
+        "contact_number": "020 6641 1111"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Treebo+Naunidh+Suites/data=!4m10!3m9!1s0x3bc2c15e00ae034f:0x685dd85fe5d0326!5m2!4m1!1i2!8m2!3d18.5597291!4d73.9301695!16s%2Fg%2F11f5by5b_s!19sChIJTwOuAF7BwjsRJgNd_oXdhQY?authuser=0&hl=en&rclk=1",
+        "place_name": "Treebo Naunidh Suites",
+        "address": "Survey No 46/1A/1B/1, Plot No 14, Guru Govind Singh Society, Sangarsh Chowk, Maharashtra 411014",
+        "site": "treebo.com",
+        "contact_number": "093228 00100"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Treebo+Landmark+Near+Pune+Airport/data=!4m10!3m9!1s0x3bc2c371faea46bd:0xe72ca5ffead4c472!5m2!4m1!1i2!8m2!3d18.5937082!4d73.9393993!16s%2Fg%2F11v5v_vnyd!19sChIJvUbq-nHDwjsRcsTU6v-lLOc?authuser=0&hl=en&rclk=1",
+        "place_name": "Treebo Landmark Near Pune Airport",
+        "address": "Sr No :- 103/2A/3, Landmark Trade Centre 3rd Floor, Lohegaon - wagholi Road, Road, Lohegaon, Pune, Maharashtra 411047",
+        "site": "treebo.com",
+        "contact_number": "093228 00100"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Fairfield+by+Marriott+Pune+Kharadi/data=!4m10!3m9!1s0x3bc2c3c60268f2fb:0x43513cdf43760ae0!5m2!4m1!1i2!8m2!3d18.5459419!4d73.9366096!16s%2Fg%2F11g2yy5jxy!19sChIJ-_JoAsbDwjsR4Ap2Q988UUM?authuser=0&hl=en&rclk=1",
+        "place_name": "Fairfield by Marriott Pune Kharadi",
+        "address": "Mundhwa - Kharadi Rd, Thite Nagar, Kharadi, Pune, Maharashtra 411014",
+        "site": "marriott.com",
+        "contact_number": "020 6712 1515"
+    },
+    {
+        "url": "https://www.google.com/maps/place/AR+Suites+Fontana+Bay,+Kalyani+Nagar/data=!4m10!3m9!1s0x3bc2c1107e87fb7f:0x4666d8ed32cc1db1!5m2!4m1!1i2!8m2!3d18.5478512!4d73.9010034!16s%2Fg%2F1v6p79jx!19sChIJf_uHfhDBwjsRsR3MMu3YZkY?authuser=0&hl=en&rclk=1",
+        "place_name": "AR Suites Fontana Bay, Kalyani Nagar",
+        "address": "AR Suites Lane, Road No. 2, Plot No. 15, Central Ave, Kalyani Nagar, Pune, Maharashtra 411006",
+        "site": "ahujaresidences.com",
+        "contact_number": "099584 85673"
+    },
+    {
+        "url": "https://www.google.com/maps/place/FabHotel+Peaceful+Stay+-+Hotel+in+Anand+Nagar,+Pune/data=!4m10!3m9!1s0x3bc2c3f8036b0d77:0x311cd21793db4ea1!5m2!4m1!1i2!8m2!3d18.5347127!4d73.9484684!16s%2Fg%2F11v12t8q__!19sChIJdw1rA_jDwjsRoU7bkxfSHDE?authuser=0&hl=en&rclk=1",
+        "place_name": "FabHotel Peaceful Stay - Hotel in Anand Nagar, Pune",
+        "address": "S. No. 34/2, Orange Habitat, Society, Hanuman Nagar, Keshav Nagar, Mundhwa, Pune, Maharashtra 411036",
+        "site": "fabhotels.com",
+        "contact_number": "070424 24242"
+    },
+    {
+        "url": "https://www.google.com/maps/place/FabHotel+Royal+Palace+Inn/data=!4m10!3m9!1s0x3bc2c1d4898c9289:0xf912d71c2c9a1f3e!5m2!4m1!1i2!8m2!3d18.5170095!4d73.8655799!16s%2Fg%2F11y6qzrfds!19sChIJiZKMidTBwjsRPh-aLBzXEvk?authuser=0&hl=en&rclk=1",
+        "place_name": "FabHotel Royal Palace Inn",
+        "address": "CTS No 599, Hotel Royal Palace, Plot No. B2, Anutej Symphony Society, Rasta Peth, Pune, Maharashtra 411011",
+        "site": "fabhotels.com",
+        "contact_number": "070424 24242"
+    },
+    {
+        "url": "https://www.google.com/maps/place/The+Elite+Suites/data=!4m10!3m9!1s0x3bc2c147120c69d9:0xc4c7008be49ab0a4!5m2!4m1!1i2!8m2!3d18.5658187!4d73.9142608!16s%2Fg%2F1tfbg5ch!19sChIJ2WkMEkfBwjsRpLCa5IsAx8Q?authuser=0&hl=en&rclk=1",
+        "place_name": "The Elite Suites",
+        "address": "Datta Mandir, 92/B, Chowk, opp. Hdfc Bank, near Sky Max Mall, Clover Park, Viman Nagar, Pune, Maharashtra 411014",
+        "site": "treebo.com",
+        "contact_number": "0124 620 1217"
+    },
+    {
+        "url": "https://www.google.com/maps/place/FabHotel+Prime+Kharadi+Residency/data=!4m10!3m9!1s0x3bc2c3ef3fae5df9:0x68818df4cba52fe9!5m2!4m1!1i2!8m2!3d18.5676229!4d73.9493099!16s%2Fg%2F11lm_67qfw!19sChIJ-V2uP-_DwjsR6S-ly_SNgWg?authuser=0&hl=en&rclk=1",
+        "place_name": "FabHotel Prime Kharadi Residency",
+        "address": "Shop No, 1, Nagar Rd, Aple Ghar Society, Kharadi, Pune, Maharashtra 411014",
+        "site": "fabhotels.com",
+        "contact_number": "070424 24242"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Magnus+Fortune+House,+Business+Hotel/data=!4m10!3m9!1s0x3bc2c16932086345:0x79ee62d9bd4434de!5m2!4m1!1i2!8m2!3d18.5127836!4d73.9326234!16s%2Fg%2F11s1vxmz0p!19sChIJRWMIMmnBwjsR3jREvdli7nk?authuser=0&hl=en&rclk=1",
+        "place_name": "Magnus Fortune House, Business Hotel",
+        "address": "Fortune house, near Kalyan Jewelers, Magarpatta, Maharashtra 411028",
+        "site": "staymagnus.com",
+        "contact_number": null
+    },
+    {
+        "url": "https://www.google.com/maps/place/Popular+Hotel+Pune+best+budget+lodging/data=!4m10!3m9!1s0x3bc2955db2cf11c7:0x2e88b878c434d3a0!5m2!4m1!1i2!8m2!3d18.472875!4d73.821283!16s%2Fg%2F11f54sy_80!19sChIJxxHPsl2VwjsRoNM0xHi4iC4?authuser=0&hl=en&rclk=1",
+        "place_name": "Popular Hotel Pune best budget lodging",
+        "address": "s no, Parinay Complex, 33, Sinhgad Rd, Manik Baug, Anand Nagar, Pune, Maharashtra 411051",
+        "site": "popularhotelpune.com",
+        "contact_number": "080 4803 1879"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Ashiyana/data=!4m10!3m9!1s0x3bc2bf80a6ac5d3d:0xff539c897fa5e9d9!5m2!4m1!1i2!8m2!3d18.5239176!4d73.8416393!16s%2Fg%2F1wbrw6wx!19sChIJPV2spoC_wjsR2emlf4mcU_8?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Ashiyana",
+        "address": "1198, Fergusson College Rd, Shivajinagar, Pune, Maharashtra 411004",
+        "site": null,
+        "contact_number": "020 2553 8011"
+    },
+    {
+        "url": "https://www.google.com/maps/place/7+Apple+Hotel+-+Viman+Nagar,+Pune/data=!4m10!3m9!1s0x3bc2c18fdbd90f13:0x7aa4205c0449fded!5m2!4m1!1i2!8m2!3d18.566305!4d73.9185301!16s%2Fg%2F11h3737tkt!19sChIJEw_Z24_BwjsR7f1JBFwgpHo?authuser=0&hl=en&rclk=1",
+        "place_name": "7 Apple Hotel - Viman Nagar, Pune",
+        "address": "Plot No. 6, Road, near Clover Park, Air Force Campus, Viman Nagar, Pune, Maharashtra 411014",
+        "site": "7applehotels.com",
+        "contact_number": "077700 85757"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Kohinoor+Executive/data=!4m10!3m9!1s0x3bc2c07816a8576d:0xd6fcae0897e38f5f!5m2!4m1!1i2!8m2!3d18.5181359!4d73.8430181!16s%2Fg%2F1tltktr3!19sChIJbVeoFnjAwjsRX4_jlwiu_NY?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Kohinoor Executive",
+        "address": "1246-B, Apte Rd, Deccan Gymkhana, Pune, Maharashtra 411004",
+        "site": "kohinoorhotels.com",
+        "contact_number": "020 2553 2000"
+    },
+    {
+        "url": "https://www.google.com/maps/place/FabHotel+Gravity+Inn/data=!4m10!3m9!1s0x3bc2bf2b40a2d95f:0xf0e10167e0c47e06!5m2!4m1!1i2!8m2!3d18.564936!4d73.785882!16s%2Fg%2F11j3kl8x5v!19sChIJX9miQCu_wjsRBn7E4GcB4fA?authuser=0&hl=en&rclk=1",
+        "place_name": "FabHotel Gravity Inn",
+        "address": "Prathamesh Park Rd, next to Jupiter Hospital, Prathamesh Park, Baner, Pune, Maharashtra 411045",
+        "site": "fabhotels.com",
+        "contact_number": "070424 24242"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Regent/data=!4m10!3m9!1s0x3bc2c07cc39e3ee5:0x85d50c7b1fb9dd07!5m2!4m1!1i2!8m2!3d18.5257808!4d73.8524448!16s%2Fg%2F12hsr7cp6!19sChIJ5T6ew3zAwjsRB925H3sM1YU?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Regent",
+        "address": "186,Opposite Jangali Maharaj Temple Lane, Opposite Shivaji Military School, Tophakhana, Shivajinagar, Pune, Maharashtra 411005",
+        "site": null,
+        "contact_number": "020 2551 1150"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+4+Star+Executive/data=!4m10!3m9!1s0x3bc2c304959a1aeb:0xfdfdc4c56fd52cb8!5m2!4m1!1i2!8m2!3d18.5515849!4d73.9563518!16s%2Fg%2F11ny_639ng!19sChIJ6xqalQTDwjsRuCzVb8XE_f0?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel 4 Star Executive",
+        "address": "Grant Rd, opp. Eon Phase-2, Vitthal Nagar, Kharadi, Pune, Maharashtra 411014",
+        "site": null,
+        "contact_number": null
+    },
+    {
+        "url": "https://www.google.com/maps/place/Deccan+8+Hotel/data=!4m10!3m9!1s0x3bc2bf84fc474475:0xab6e0eea5903dbdb!5m2!4m1!1i2!8m2!3d18.5193178!4d73.8325651!16s%2Fg%2F1tfwhtxs!19sChIJdURH_IS_wjsR29sDWeoObqs?authuser=0&hl=en&rclk=1",
+        "place_name": "Deccan 8 Hotel",
+        "address": "BHANDARKAR ROAD, 820/5, Prof. V. G. Kale Path, near Yes Bank, Shivajinagar, Pune, Maharashtra 411004",
+        "site": null,
+        "contact_number": "080070 50301"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Utsav+Deluxe/data=!4m10!3m9!1s0x3bc2eaa42f6913cb:0xfcbeb5a5203ce900!5m2!4m1!1i2!8m2!3d18.489191!4d73.8578181!16s%2Fg%2F1trxhqyw!19sChIJyxNpL6TqwjsRAOk8IKW1vvw?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Utsav Deluxe",
+        "address": "1, Chaphalkar House, Near City pride multiplex 692, 693, Market Yard Rd, Arihant Society, Maharshi Nagar, Pune, Maharashtra 411037",
+        "site": "hotelutsavdeluxe.com",
+        "contact_number": "086050 16750"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Jagannath/data=!4m10!3m9!1s0x3bc2c05c8b66fc29:0xcd8fefdf8aab9a1b!5m2!4m1!1i2!8m2!3d18.5220045!4d73.8699524!16s%2Fg%2F1tdq90cq!19sChIJKfxmi1zAwjsRG5qrit_vj80?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Jagannath",
+        "address": "426B, opp. SBI, Somwar Peth, Pune, Maharashtra 411011",
+        "site": null,
+        "contact_number": "070284 64118"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Rajmandir/data=!4m10!3m9!1s0x3bc2c05d05555555:0x2c5cb0435d2932e9!5m2!4m1!1i2!8m2!3d18.5228417!4d73.8692391!16s%2Fg%2F1tg_vjsg!19sChIJVVVVBV3AwjsR6TIpXUOwXCw?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Rajmandir",
+        "address": "433, 433/7/1, Somwar Peth, Behind Zilla Parishad Pune Maharashtra IN 411001, 1, Somwar Peth, Pune, Maharashtra 411011",
+        "site": null,
+        "contact_number": "099700 97840"
+    },
+    {
+        "url": "https://www.google.com/maps/place/ibis+Pune+Viman+Nagar/data=!4m10!3m9!1s0x3bc2c13fdae5b205:0x2f1a55f89a8b981b!5m2!4m1!1i2!8m2!3d18.5596851!4d73.9130023!16s%2Fg%2F1vgw_5xx!19sChIJBbLl2j_BwjsRG5iLmvhVGi8?authuser=0&hl=en&rclk=1",
+        "place_name": "ibis Pune Viman Nagar",
+        "address": "Survey No 32, Viman Nagar Rd, Maharashtra State, Viman Nagar, Pune, Maharashtra 411014",
+        "site": "accor.com",
+        "contact_number": "020 4018 4018"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Housemate+Hotels+%26+Restaurant/data=!4m10!3m9!1s0x3bc2c3ce43f61f57:0xc2f23b2846c9e109!5m2!4m1!1i2!8m2!3d18.5654075!4d73.9445731!16s%2Fg%2F11s1wnd6gk!19sChIJVx_2Q87DwjsRCeHJRig78sI?authuser=0&hl=en&rclk=1",
+        "place_name": "Housemate Hotels & Restaurant",
+        "address": "Housemate hotel and restaurant, Prince Tower, Samrat Ashok Rd, next to Chandan Marble, Adjucent to Indian oil petrol pump, Tulaja Bhawani Nagar, Kharadi, Pune, Maharashtra 411014",
+        "site": null,
+        "contact_number": "087999 98133"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Centro/data=!4m10!3m9!1s0x3bc2c07f88c40001:0x9a07c412d3d72b69!5m2!4m1!1i2!8m2!3d18.5224609!4d73.8439738!16s%2Fg%2F11fzvjz0t0!19sChIJAQDEiH_AwjsRaSvX0xLEB5o?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Centro",
+        "address": "1202/34, Shirole Road, opposite Darode Jog Office, off Apte Road, Shivajinagar, Pune, Maharashtra 411004",
+        "site": null,
+        "contact_number": "085308 62222"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hyatt+Regency+Pune+%26+Residences/data=!4m10!3m9!1s0x3bc2c13f8898d47d:0xb720e75df7dab049!5m2!4m1!1i2!8m2!3d18.5594209!4d73.9120476!16s%2Fg%2F1tgq52ng!19sChIJfdSYiD_BwjsRSbDa913nILc?authuser=0&hl=en&rclk=1",
+        "place_name": "Hyatt Regency Pune & Residences",
+        "address": "WEIKFIELD IT CITI INFO PARK, Nagar Rd, Sakore Nagar, Viman Nagar, Pune, Maharashtra 411014",
+        "site": "hyatt.com",
+        "contact_number": "020 6645 1234"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Royal+Enclave+Nana+Peth/data=!4m10!3m9!1s0x3bc2c04268556e7b:0x884a97a7438e1fab!5m2!4m1!1i2!8m2!3d18.515269!4d73.8666961!16s%2Fg%2F11b7w1cr_d!19sChIJe25VaELAwjsRqx-OQ6eXSog?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Royal Enclave Nana Peth",
+        "address": "326, Sadashiv Chamber, opposite Punjab National Bank, New Nana Peth, Ganesh Peth, Pune, Maharashtra 411002",
+        "site": "oyorooms.com",
+        "contact_number": "0124 620 1217"
+    },
+    {
+        "url": "https://www.google.com/maps/place/FabHotel+Executive+Residency+-+Hotels+Near+Koregaon+Park/data=!4m10!3m9!1s0x3bc2c1ca1320ebef:0xac364b030da48e89!5m2!4m1!1i2!8m2!3d18.54112!4d73.88769!16s%2Fg%2F11vk8l6pbz!19sChIJ7-sgE8rBwjsRiY6kDQNLNqw?authuser=0&hl=en&rclk=1",
+        "place_name": "FabHotel Executive Residency - Hotels Near Koregaon Park",
+        "address": "Lane A, Hotel Executive Residency, 294/3, Venus Apartment, Koregaon Park, Pune, Maharashtra 411001",
+        "site": "fabhotels.com",
+        "contact_number": "070424 24242"
+    },
+    {
+        "url": "https://www.google.com/maps/place/FabExpress+Marvel+Bliss+-+Hotel+in+Viman+Nagar,+Pune/data=!4m10!3m9!1s0x3bc2c18e9194ba79:0x590c1e979b545778!5m2!4m1!1i2!8m2!3d18.5633949!4d73.9083537!16s%2Fg%2F11h24s12qc!19sChIJebqUkY7BwjsReFdUm5ceDFk?authuser=0&hl=en&rclk=1",
+        "place_name": "FabExpress Marvel Bliss - Hotel in Viman Nagar, Pune",
+        "address": "S.No. 232/1 to 2 Plot No-47B, Sakore Nagar, Viman Nagar, Pune, Maharashtra 411014",
+        "site": "fabhotels.com",
+        "contact_number": "070424 24242"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Quality+Inn+Mint/data=!4m10!3m9!1s0x3bc2c0f71b8d9b71:0xdf122a45bb65c9b9!5m2!4m1!1i2!8m2!3d18.5357769!4d73.8749309!16s%2Fg%2F11b77wbng2!19sChIJcZuNG_fAwjsRucllu0UqEt8?authuser=0&hl=en&rclk=1",
+        "place_name": "Quality Inn Mint",
+        "address": "Ahead of Ruby Hall Clinic, Balkrishna Sakharam Dhole Patil Rd, next to Themi Grant Nursing Institute, behind Desai House, Sangamvadi, Pune, Maharashtra 411001",
+        "site": "qualityinnmint.com",
+        "contact_number": "020 2636 4001"
+    },
+    {
+        "url": "https://www.google.com/maps/place/FabHotel+Wakad+Villa+-+Hotel+in+Wakad,+Pune/data=!4m10!3m9!1s0x3bc2b969bd4e73ef:0xbf89d00cadc106fc!5m2!4m1!1i2!8m2!3d18.602853!4d73.77103!16s%2Fg%2F11k46kccl1!19sChIJ73NOvWm5wjsR_AbBrQzQib8?authuser=0&hl=en&rclk=1",
+        "place_name": "FabHotel Wakad Villa - Hotel in Wakad, Pune",
+        "address": "01, Kaspate Wasti Rd, opp. club 29 hotel, Vishnu Dev Nagar, Wakad, Pune, Pimpri-Chinchwad, Maharashtra 411057",
+        "site": "fabhotels.com",
+        "contact_number": "070424 24242"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Ivy+Studios+Viman+Nagar/data=!4m10!3m9!1s0x3bc2c147b83aee8b:0x55cceabb4cdaa6bf!5m2!4m1!1i2!8m2!3d18.5637333!4d73.9080318!16s%2Fg%2F1tl1lxhd!19sChIJi-46uEfBwjsRv6baTLvqzFU?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Ivy Studios Viman Nagar",
+        "address": "Hotel IVY Studios, 48 & 49, near Symbiosis College, Sakore Nagar, Viman Nagar, Pune, Maharashtra 411014",
+        "site": null,
+        "contact_number": "077220 20999"
+    },
+    {
+        "url": "https://www.google.com/maps/place/FabHotel+Royal+Samrat/data=!4m10!3m9!1s0x3bc2c1f1f06f9865:0x47a9c24d35ef53b5!5m2!4m1!1i2!8m2!3d18.5062804!4d73.9248842!16s%2Fg%2F11b6snl94h!19sChIJZZhv8PHBwjsRtVPvNU3CqUc?authuser=0&hl=en&rclk=1",
+        "place_name": "FabHotel Royal Samrat",
+        "address": "P-23 A, North Hadapsar, Hadapsar, Pune, Maharashtra 411028",
+        "site": "fabhotels.com",
+        "contact_number": "070424 24242"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Itsy+Hotels+Hill+View+Ex/data=!4m10!3m9!1s0x3bc2bf86e3453ce7:0x338129f0e46e7aaf!5m2!4m1!1i2!8m2!3d18.5199162!4d73.8390471!16s%2Fg%2F1tdjplqq!19sChIJ5zxF44a_wjsRr3pu5PApgTM?authuser=0&hl=en&rclk=1",
+        "place_name": "Itsy Hotels Hill View Ex",
+        "address": "Off, Fergusson College Rd, opp. to Roopali Restaurant, Ganeshwadi, Deccan Gymkhana, Pune, Maharashtra 411004",
+        "site": "treebo.com",
+        "contact_number": "093228 00100"
+    },
+    {
+        "url": "https://www.google.com/maps/place/O+Hotel+Pune-+Koregaon+Park/data=!4m10!3m9!1s0x3bc2c1b4a6472919:0x5440fce7642fdff7!5m2!4m1!1i2!8m2!3d18.5397097!4d73.8877455!16s%2Fg%2F11v9lm4n62!19sChIJGSlHprTBwjsR998vZOf8QFQ?authuser=0&hl=en&rclk=1",
+        "place_name": "O Hotel Pune- Koregaon Park",
+        "address": "N Main Rd, Vaswani Nagar, Ragvilas Society, Koregaon Park, Pune, Maharashtra 411001",
+        "site": "ohotelsindia.com",
+        "contact_number": "020 4001 1000"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Hotel+Sapna/data=!4m10!3m9!1s0x3bc2c079a3b96f53:0x47731376e947986d!5m2!4m1!1i2!8m2!3d18.5198206!4d73.8460365!16s%2Fg%2F1td7rn70!19sChIJU2-5o3nAwjsRbZhH6XYTc0c?authuser=0&hl=en&rclk=1",
+        "place_name": "Hotel Sapna",
+        "address": "573/7, Jangali Maharaj Rd, next to Sambhaji Park, Shivajinagar, Pune, Maharashtra 411004",
+        "site": null,
+        "contact_number": "088888 46568"
+    },
+    {
+        "url": "https://www.google.com/maps/place/National+Hotel/data=!4m10!3m9!1s0x3bc2c15f69d794fb:0x4341bcb6c1f01b76!5m2!4m1!1i2!8m2!3d18.527856!4d73.874656!16s%2Fg%2F11rqxh1k2y!19sChIJ-5TXaV_BwjsRdhvwwba8QUM?authuser=0&hl=en&rclk=1",
+        "place_name": "National Hotel",
+        "address": "14, Sasoon Rd, Agarkar Nagar, Pune, Maharashtra 411001",
+        "site": null,
+        "contact_number": "098233 87863"
+    },
+    {
+        "url": "https://www.google.com/maps/place/FabHotel+Classic+Square+-+Hotel+in+Wagholi,+Pune/data=!4m10!3m9!1s0x3bc2c357dc06df2d:0xe1ff38dcd33233dc!5m2!4m1!1i2!8m2!3d18.5728329!4d73.9550232!16s%2Fg%2F11vcy6_zlm!19sChIJLd8G3FfDwjsR3DMy09w4_-E?authuser=0&hl=en&rclk=1",
+        "place_name": "FabHotel Classic Square - Hotel in Wagholi, Pune",
+        "address": "Plot No 3450, Shri Krishna Building, Nagar Rd, opp. Shiv Sagar Restaurant, Khandve Nagar, Wagholi, Punr, Pune, Maharashtra 412207",
+        "site": "fabhotels.com",
+        "contact_number": "070424 24242"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Flagship+Kharadi/data=!4m10!3m9!1s0x3bc2c3f61d1f1abf:0x765dec606ac48107!5m2!4m1!1i2!8m2!3d18.5656769!4d73.9453673!16s%2Fg%2F11f7bqw10s!19sChIJvxofHfbDwjsRB4HEamDsXXY?authuser=0&hl=en&rclk=1",
+        "place_name": "Flagship Kharadi",
+        "address": "Sr. No. 134/4/2/1, beside Chandan Marble, near Yadav Petrol Pump, Tulaja Bhawani Nagar, Kharadi, Pune, Maharashtra 411014",
+        "site": "oyorooms.com",
+        "contact_number": "0124 433 0564"
+    },
+    {
+        "url": "https://www.google.com/maps/place/FabHotel+Vardhan+House+-+Hotel+in+Baner,+Pune/data=!4m10!3m9!1s0x3bc2bfebb55e6c5d:0x5c4c209fe299f6ed!5m2!4m1!1i2!8m2!3d18.56332!4d73.77291!16s%2Fg%2F11t7b1__l1!19sChIJXWxeteu_wjsR7faZ4p8gTFw?authuser=0&hl=en&rclk=1",
+        "place_name": "FabHotel Vardhan House - Hotel in Baner, Pune",
+        "address": "near Ticket Design Pvt Ltd, Veerbhadra Nagar, Baner, Pune, Maharashtra 411045",
+        "site": "fabhotels.com",
+        "contact_number": "070424 24242"
+    },
+    {
+        "url": "https://www.google.com/maps/place/HOTEL+VRINDAVAN/data=!4m10!3m9!1s0x3bc2c1bf0046824f:0x705056f90b92beeb!5m2!4m1!1i2!8m2!3d18.535198!4d73.8765389!16s%2Fg%2F1pp2twlc1!19sChIJT4JGAL_BwjsR676SC_lWUHA?authuser=0&hl=en&rclk=1",
+        "place_name": "HOTEL VRINDAVAN",
+        "address": "Second Floor Second floor, Genesis Building, 198/1, Balkrishna Sakharam Dhole Patil Rd, above Wellness forever, Sangamvadi, Pune, Maharashtra 411001",
+        "site": null,
+        "contact_number": "020 2616 9889"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Crowne+Plaza+Pune+City+Centre,+an+IHG+Hotel/data=!4m10!3m9!1s0x3bc2c0fbe9bee4eb:0x6003312714e421f3!5m2!4m1!1i2!8m2!3d18.5315247!4d73.8766732!16s%2Fg%2F11b_2tfmbx!19sChIJ6-S-6fvAwjsR8yHkFCcxA2A?authuser=0&hl=en&rclk=1",
+        "place_name": "Crowne Plaza Pune City Centre, an IHG Hotel",
+        "address": "No. 37 & 37, Cts, 1, Bund Garden Rd, next to Jehangir Hospital, Central Excise Colony, Sangamvadi, Pune, Maharashtra 411001",
+        "site": "ihg.com",
+        "contact_number": "020 6724 8181"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Treebo+Trend+The+White+Castle/data=!4m10!3m9!1s0x3bc2eb7624d47ba9:0x4bb6bdaf2d39f4bd!5m2!4m1!1i2!8m2!3d18.4581311!4d73.8353453!16s%2Fg%2F11sh24x6_1!19sChIJqXvUJHbrwjsRvfQ5La-9tks?authuser=0&hl=en&rclk=1",
+        "place_name": "Treebo Trend The White Castle",
+        "address": "Survey no.2, 1/1, Katraj - Ambegaon BK Rd, Vadgaon Budruk, Katraj, Pune, Maharashtra 411046",
+        "site": "treebo.com",
+        "contact_number": "093228 00100"
+    },
+    {
+        "url": "https://www.google.com/maps/place/COLIWO+DEUX+-+Chandan+Nagar+%28Colive+and+Cowork%29/data=!4m10!3m9!1s0x3bc2c14044cd73bb:0xca09841fdbb9be00!5m2!4m1!1i2!8m2!3d18.5611303!4d73.9299181!16s%2Fg%2F11qbcn0jlw!19sChIJu3PNREDBwjsRAL652x-ECco?authuser=0&hl=en&rclk=1",
+        "place_name": "COLIWO DEUX - Chandan Nagar (Colive and Cowork)",
+        "address": "lane no 6 , shree balaji apartment, Nagar Rd, Sai Nagari, Chandan Nagar, Pune, Maharashtra 411014",
+        "site": null,
+        "contact_number": "089561 04466"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Townhouse+Oak+JM+Road+Pune/data=!4m10!3m9!1s0x3bc2c07d031c018f:0x6fbdfc4e52868562!5m2!4m1!1i2!8m2!3d18.5267108!4d73.8513077!16s%2Fg%2F1tfn15jc!19sChIJjwEcA33AwjsRYoWGUk78vW8?authuser=0&hl=en&rclk=1",
+        "place_name": "Townhouse Oak JM Road Pune",
+        "address": "364, 365, Jangali Maharaj Rd, Shivajinagar, Pune, Maharashtra 411005",
+        "site": "oyorooms.com",
+        "contact_number": "0124 433 0599"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Kedari+Residency/data=!4m10!3m9!1s0x3bc2c1cf99aff15d:0x89b4b0b242b4c5bc!5m2!4m1!1i2!8m2!3d18.5012848!4d73.8994285!16s%2Fg%2F11f00j2bj5!19sChIJXfGvmc_BwjsRvMW0QrKwtIk?authuser=0&hl=en&rclk=1",
+        "place_name": "Kedari Residency",
+        "address": "Reliance Mart, KEDARI RESIDENCY Survey 14/21 A +21 B HOLAYNAGAR, behind to, Fatima Nagar, Wanowrie, Pune, Maharashtra 411040",
+        "site": "kedariresidency.com",
+        "contact_number": "077570 24999"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Treebo+Lotus+Baner+-+Hotel+in+Pune/data=!4m10!3m9!1s0x3bc2bf038afe7349:0x680b63cbd84cfb0f!5m2!4m1!1i2!8m2!3d18.5600726!4d73.7730092!16s%2Fg%2F11fjx_tbzf!19sChIJSXP-igO_wjsRD_tM2MtjC2g?authuser=0&hl=en&rclk=1",
+        "place_name": "Treebo Lotus Baner - Hotel in Pune",
+        "address": "Sr No 90, Hissa No 5/2/1, 07, Veerbhadra Nagar Rd, next to Sankalp Apartment, opp. to Sri Naga Apartment, Baner, Maharashtra 411045",
+        "site": "treebo.com",
+        "contact_number": "093228 00100"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Super+Townhouse+OAK+Red+Velvet+Suites+%26+Inn+Koregoan+Park/data=!4m10!3m9!1s0x3bc2c1e129b5f75b:0x1ed3e72665c5b18a!5m2!4m1!1i2!8m2!3d18.5289578!4d73.9195798!16s%2Fg%2F11kj1nx_8g!19sChIJW_e1KeHBwjsRirHFZSbn0x4?authuser=0&hl=en&rclk=1",
+        "place_name": "Super Townhouse OAK Red Velvet Suites & Inn Koregoan Park",
+        "address": "Pl No 13, Nr Bole Gas Agency, Sr No 90 His No 2/3, opp. Knight Riders Restaurant, Dhayarkar Vasti, Koregaon Park Annexe, Koregaon Park, Pune, Maharashtra 411036",
+        "site": "oyorooms.com",
+        "contact_number": "0124 433 0564"
+    },
+    {
+        "url": "https://www.google.com/maps/place/FabHotel+White+House+Inn/data=!4m10!3m9!1s0x3bc2c3ee45d6635d:0xc4f6a77a034238a5!5m2!4m1!1i2!8m2!3d18.5664556!4d73.9493863!16s%2Fg%2F11l2gj1xfy!19sChIJXWPWRe7DwjsRpThCA3qn9sQ?authuser=0&hl=en&rclk=1",
+        "place_name": "FabHotel White House Inn",
+        "address": "Lane No. 8, Aple Ghar Society, housing society, Kharadi, Pune, Maharashtra 411014",
+        "site": "fabhotels.com",
+        "contact_number": "070424 24242"
+    },
+    {
+        "url": "https://www.google.com/maps/place/Treebo+Serenity+Inn/data=!4m10!3m9!1s0x3bc2c1eecc6c9b01:0x8048fc0e52a41630!5m2!4m1!1i2!8m2!3d18.5388201!4d73.8866255!16s%2Fg%2F11v3h_vx7m!19sChIJAZtszO7BwjsRMBakUg78SIA?authuser=0&hl=en&rclk=1",
+        "place_name": "Treebo Serenity Inn",
+        "address": "Gera Serenity Building, SN 479 to 480, near Starbucks Cafe, Koregaon Park, Pune, Maharashtra 411001",
+        "site": "treebo.com",
+        "contact_number": "093228 00100"
     }
 ]
